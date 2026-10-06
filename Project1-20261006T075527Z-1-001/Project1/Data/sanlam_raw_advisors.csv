@@ -1,0 +1,601 @@
+﻿source_row_id,advisor_id,advisor_name,fsp_number,channel,network_name,province,active_flag
+SA-0000001,ADV000001,Mariam Khumalo,SIM-FSP-000001,Bank Assurance,Metro Group,Gauteng,1
+SA-0000002,ADV000002,Fatima Khumalo,SIM-FSP-000002,Bank Assurance,Coastal Network,Northern Cape,N
+SA-0000003,ADV000003,Ayanda Ndlovu,SIM-FSP-000003,Bank-Assurance,North Network,Limpopo,N
+SA-0000004,ADV000004,Ayanda Molefe,SIM-FSP-000004,BlueStar,Coastal Network,Western Cape,Active
+SA-0000005,ADV000005,Grace Adams,SIM-FSP-000005,BLUESTAR,North Network,Limpopo,N
+SA-0000006,ADV000006,Neo Smith,SIM-FSP-000006,Bank Assurance,,Gauteng,Active
+SA-0000007,ADV000007,Daniel Ndlovu,SIM-FSP-000007,BlueStar,Independent,Western Cape,Active
+SA-0000008,ADV000008,Kabelo Smith,SIM-FSP-000008,Bank Assurance,Independent,North West,Y
+SA-0000009,ADV000009,Lwazi Smith,SIM-FSP-000009,Bank-Assurance,North Network,North West,1
+SA-0000010,ADV000010,David Mabena,SIM-FSP-000010,Bank Assurance,Coastal Network,Limpopo,N
+SA-0000011,ADV000011,Brian Maseko,SIM-FSP-000011,Blue Star,,KwaZulu-Natal,1
+SA-0000012,ADV000012,Portia Khumalo,SIM-FSP-000012,Bank-Assurance,Independent,Eastern Cape,Y
+SA-0000013,ADV000013,Zanele Khumalo,SIM-FSP-000013,N/A,North Network,Northern Cape,Yes
+SA-0000014,ADV000014,Peter Maseko,SIM-FSP-000014,Blue Star,Coastal Network,Northern Cape,Active
+SA-0000015,ADV000015,Fatima Mabena,SIM-FSP-000015,BLUESTAR,Coastal Network,Northern Cape,Active
+SA-0000016,ADV000016,Brian Mthembu,SIM-FSP-000016,Blue Star,North Network,Limpopo,Active
+SA-0000017,ADV000017,Daniel Smith,NULL,BLUESTAR,North Network,Western Cape,Y
+SA-0000018,ADV000018,David Khumalo,SIM-FSP-000018,Bank-Assurance,Independent,Free State,1
+SA-0000019,ADV000019,Lwazi Maseko,SIM-FSP-000019,Bank Assurance,Coastal Network,Mpumalanga,Y
+SA-0000020,ADV000020,Nomsa van der Merwe,SIM-FSP-000020,Bank Assurance,Independent,Western Cape,Active
+SA-0000021,ADV000021,Neo Sithole,SIM-FSP-000021,Blue Star,North Network,Eastern Cape,N
+SA-0000022,ADV000022,Brian Naidoo,SIM-FSP-000022,Bank Assurance,,Western Cape,N
+SA-0000023,ADV000023,Samuel van der Merwe,SIM-FSP-000023,Bank-Assurance,North Network,Northern Cape,N
+SA-0000024,ADV000024,Daniel Mokoena,SIM-FSP-000024,BLUESTAR,Coastal Network,North West,1
+SA-0000025,ADV000025,David Sithole,SIM-FSP-000025,BlueStar,Coastal Network,Free State,Active
+SA-0000026,ADV000026,Kabelo Mthembu,SIM-FSP-000026,Bank-Assurance,Coastal Network,Eastern Cape,Yes
+SA-0000027,ADV000027,Tshepo Pillay,SIM-FSP-000027,BlueStar,Independent,KwaZulu-Natal,Y
+SA-0000028,ADV000028,Fatima Naidoo,SIM-FSP-000028,Bank-Assurance,North Network,North West,1
+SA-0000029,ADV000029,Tshepo Pillay,SIM-FSP-000029,BlueStar,Coastal Network,Free State,1
+SA-0000030,ADV000030,David Molefe,SIM-FSP-000030,,,Western Cape,1
+SA-0000031,ADV000031,Amina Mabena,SIM-FSP-000031,Bank-Assurance,Independent,Eastern Cape,Y
+SA-0000032,ADV000032,Grace Maseko,SIM-FSP-000032,Bank Assurance,,Eastern Cape,Active
+SA-0000033,ADV000033,Nomsa Zulu,,BLUESTAR,Metro Group,Northern Cape,Y
+SA-0000034,ADV000034,Peter Molefe,SIM-FSP-000034,BLUESTAR,North Network,Limpopo,1
+SA-0000035,ADV000035,Portia Molefe,,BlueStar,North Network,Northern Cape,1
+SA-0000036,ADV000036,Lwazi Molefe,SIM-FSP-000036,Blue Star,Metro Group,KwaZulu-Natal,Active
+SA-0000037,ADV000037,Samuel Nkosi,SIM-FSP-000037,N/A,Independent,Gauteng,Y
+SA-0000038,ADV000038,Daniel van der Merwe,SIM-FSP-000038,BLUESTAR,,Mpumalanga,Active
+SA-0000039,ADV000039,Lerato Pillay,SIM-FSP-000039,BLUESTAR,North Network,North West,Yes
+SA-0000040,ADV000040,David Nkosi,SIM-FSP-000040,BlueStar,Coastal Network,Mpumalanga,N
+SA-0000041,ADV000041,Amina Molefe,SIM-FSP-000041,BlueStar,,Eastern Cape,1
+SA-0000042,ADV000042,Brian van der Merwe,SIM-FSP-000042,Direct,North Network,Western Cape,Y
+SA-0000043,ADV000043,Zanele Williams,SIM-FSP-000043,Bank-Assurance,,Gauteng,1
+SA-0000044,ADV000044,Nomsa Mahlangu,SIM-FSP-000044,BlueStar,,Limpopo,N
+SA-0000045,ADV000045,Daniel Pillay,SIM-FSP-000045,BLUESTAR,,Free State,Y
+SA-0000046,ADV000046,Brian Mthembu,SIM-FSP-000046,Bank Assurance,Metro Group,Northern Cape,Y
+SA-0000047,ADV000047,Kabelo Mabena,SIM-FSP-000047,Direct,,Limpopo,Active
+SA-0000048,ADV000048,Fatima Khumalo,SIM-FSP-000048,Bank Assurance,North Network,North West,N
+SA-0000049,ADV000049,Naledi Smith,SIM-FSP-000049,Direct,Metro Group,Gauteng,Active
+SA-0000050,ADV000050,Lwazi Pillay,SIM-FSP-000050,BLUESTAR,Independent,KwaZulu-Natal,Y
+SA-0000051,ADV000051,Thandi Mokoena,SIM-FSP-000051,BLUESTAR,Independent,KwaZulu-Natal,Y
+SA-0000052,ADV000052,Neo Mabena,SIM-FSP-000052,BlueStar,North Network,Eastern Cape,Y
+SA-0000053,ADV000053,Ayanda Mahlangu,SIM-FSP-000053,BLUESTAR,Coastal Network,Eastern Cape,Yes
+SA-0000054,ADV000054,Amina Ndlovu,SIM-FSP-000054,Direct,Independent,Northern Cape,N
+SA-0000055,ADV000055,Amina Mokoena,N/A,Bank-Assurance,Independent,Northern Cape,N
+SA-0000056,ADV000056,Amina Zulu,SIM-FSP-000056,Bank-Assurance,Metro Group,Mpumalanga,Y
+SA-0000057,ADV000057,Portia Jacobs,SIM-FSP-000057,BlueStar,North Network,Northern Cape,Active
+SA-0000058,ADV000058,Brian Sithole,SIM-FSP-000058,Bank-Assurance,Independent,Northern Cape,Y
+SA-0000059,ADV000059,Musa Mahlangu,SIM-FSP-000059,Blue Star,Metro Group,Western Cape,Yes
+SA-0000060,ADV000060,Grace Maseko,SIM-FSP-000060,BLUESTAR,North Network,Northern Cape,1
+SA-0000061,ADV000061,Samuel Maseko,SIM-FSP-000061,Bank Assurance,Metro Group,North West,Active
+SA-0000062,ADV000062,Grace Botha,SIM-FSP-000062,Blue Star,North Network,Western Cape,Yes
+SA-0000063,ADV000063,Zanele Mokoena,SIM-FSP-000063,Direct,,Gauteng,Active
+SA-0000064,ADV000064,Kabelo Nkosi,SIM-FSP-000064,Bank-Assurance,Independent,Eastern Cape,Y
+SA-0000065,ADV000065,Grace Dlamini,SIM-FSP-000065,Bank-Assurance,Metro Group,Eastern Cape,Active
+SA-0000066,ADV000066,Tshepo Molefe,SIM-FSP-000066,BlueStar,Coastal Network,Mpumalanga,Active
+SA-0000067,ADV000067,Fatima Jacobs,SIM-FSP-000013,Bank-Assurance,Coastal Network,Gauteng,1
+SA-0000068,ADV000068,Lwazi Mthembu,SIM-FSP-000068,Blue Star,Independent,North West,Y
+SA-0000069,ADV000069,Lwazi Ndlovu,SIM-FSP-000069,BLUESTAR,North Network,Mpumalanga,N
+SA-0000070,ADV000070,Peter Khumalo,SIM-FSP-000070,Direct,,North West,N
+SA-0000071,ADV000071,Lerato Mthembu,SIM-FSP-000071,Bank-Assurance,Metro Group,Western Cape,Yes
+SA-0000072,ADV000072,Musa Dlamini,SIM-FSP-000072,Direct,Metro Group,Free State,Active
+SA-0000073,ADV000073,Peter Williams,SIM-FSP-000073,Bank Assurance,North Network,Gauteng,Y
+SA-0000074,ADV000074,Lerato Adams,SIM-FSP-000074,Direct,Independent,Gauteng,Active
+SA-0000075,ADV000075,Keitumetse Ndlovu,SIM-FSP-000075,Bank-Assurance,Independent,Gauteng,Y
+SA-0000076,ADV000076,Tshepo van der Merwe,,Blue Star,Metro Group,Eastern Cape,N
+SA-0000077,ADV000077,Samuel Nkosi,SIM-FSP-000077,Bank Assurance,Metro Group,Gauteng,N
+SA-0000078,ADV000078,Keitumetse Sithole,SIM-FSP-000078,Bank-Assurance,North Network,Mpumalanga,Active
+SA-0000079,ADV000079,Samuel Smith,SIM-FSP-000079,Blue Star,Metro Group,Mpumalanga,1
+SA-0000080,ADV000080,Thandi Botha,SIM-FSP-000080,Bank Assurance,Independent,Gauteng,Yes
+SA-0000081,ADV000081,Nomsa Mahlangu,SIM-FSP-000081,Bank-Assurance,,KwaZulu-Natal,Yes
+SA-0000082,ADV000082,Ayanda Zulu,SIM-FSP-000082,N/A,Metro Group,Eastern Cape,Active
+SA-0000083,ADV000083,Brian Mabena,SIM-FSP-000083,BlueStar,Independent,Northern Cape,N
+SA-0000084,ADV000084,Lerato Naidoo,SIM-FSP-000084,Blue Star,North Network,KwaZulu-Natal,Yes
+SA-0000085,ADV000085,Amina Mabena,SIM-FSP-000085,Blue Star,Coastal Network,KwaZulu-Natal,Y
+SA-0000086,ADV000086,Mariam Nkosi,SIM-FSP-000086,Direct,Metro Group,Limpopo,Y
+SA-0000087,ADV000087,Musa Molefe,SIM-FSP-000087,BLUESTAR,Metro Group,Western Cape,Y
+SA-0000088,ADV000088,Fatima Pillay,SIM-FSP-000088,BLUESTAR,,Limpopo,1
+SA-0000089,ADV000089,Neo Maseko,SIM-FSP-000089,Direct,Independent,Eastern Cape,N
+SA-0000090,ADV000090,Lerato Khumalo,SIM-FSP-000090,Bank Assurance,Independent,Western Cape,Y
+SA-0000091,ADV000091,Samuel Khumalo,SIM-FSP-000091,BLUESTAR,Independent,North West,1
+SA-0000092,ADV000092,Brian Mthembu,SIM-FSP-000092,,Metro Group,Western Cape,Yes
+SA-0000093,ADV000093,Zanele Nkosi,SIM-FSP-000093,Direct,,KwaZulu-Natal,N
+SA-0000094,ADV000094,Lwazi Mahlangu,SIM-FSP-000094,BlueStar,Coastal Network,KwaZulu-Natal,Active
+SA-0000095,ADV000095,Zanele Smith,SIM-FSP-000095,Blue Star,Independent,KwaZulu-Natal,Active
+SA-0000096,ADV000096,Lerato van der Merwe,SIM-FSP-000096,BLUESTAR,,Northern Cape,N
+SA-0000097,ADV000097,Thandi Naidoo,SIM-FSP-000097,Bank-Assurance,Coastal Network,Limpopo,1
+SA-0000098,ADV000098,Sipho Naidoo,SIM-FSP-000098,Direct,North Network,KwaZulu-Natal,N
+SA-0000099,ADV000099,Samuel Nkosi,SIM-FSP-000099,BLUESTAR,Independent,Western Cape,Y
+SA-0000100,ADV000100,Nomsa Ndlovu,SIM-FSP-000100,BlueStar,North Network,Limpopo,Y
+SA-0000101,ADV000101,Thandi Khumalo,SIM-FSP-000101,BLUESTAR,Metro Group,KwaZulu-Natal,Active
+SA-0000102,ADV000102,Neo Mokoena,SIM-FSP-000102,BLUESTAR,North Network,Eastern Cape,1
+SA-0000103,ADV000103,Grace Mthembu,SIM-FSP-000103,BLUESTAR,Metro Group,Northern Cape,Active
+SA-0000104,ADV000104,Grace Ndlovu,SIM-FSP-000104,BLUESTAR,North Network,Eastern Cape,1
+SA-0000105,ADV000105,Daniel Mokoena,SIM-FSP-000105,Blue Star,Independent,KwaZulu-Natal,Active
+SA-0000106,ADV000106,Zanele Dlamini,SIM-FSP-000093,Blue Star,North Network,Northern Cape,Active
+SA-0000107,ADV000107,Grace Nkosi,SIM-FSP-000107,Bank-Assurance,Metro Group,Eastern Cape,1
+SA-0000108,ADV000108,Naledi Mokoena,SIM-FSP-000108,Bank Assurance,North Network,Western Cape,Y
+SA-0000109,ADV000109,Grace Khumalo,SIM-FSP-000109,,North Network,KwaZulu-Natal,N
+SA-0000110,ADV000110,Amina van der Merwe,SIM-FSP-000110,Bank-Assurance,Coastal Network,Northern Cape,Yes
+SA-0000111,ADV000111,Zanele Naidoo,SIM-FSP-000111,Bank Assurance,Metro Group,KwaZulu-Natal,Active
+SA-0000112,ADV000112,Neo Molefe,SIM-FSP-000112,Bank Assurance,Metro Group,Free State,N
+SA-0000113,ADV000113,Neo Nkosi,SIM-FSP-000113,BLUESTAR,North Network,Eastern Cape,N
+SA-0000114,ADV000114,Grace Mahlangu,SIM-FSP-000114,Blue Star,North Network,North West,Y
+SA-0000115,ADV000115,Mariam van der Merwe,SIM-FSP-000115,NULL,North Network,Free State,Active
+SA-0000116,ADV000116,Amina Zulu,SIM-FSP-000116,Direct,,Gauteng,Y
+SA-0000117,ADV000117,Tshepo Maseko,N/A,Bank-Assurance,Coastal Network,North West,Active
+SA-0000118,ADV000118,David Naidoo,SIM-FSP-000118,BLUESTAR,,Mpumalanga,Y
+SA-0000119,ADV000119,Brian Nkosi,SIM-FSP-000119,Direct,Coastal Network,Mpumalanga,1
+SA-0000120,ADV000120,Brian Mokoena,SIM-FSP-000120,Direct,Coastal Network,KwaZulu-Natal,Active
+SA-0000121,ADV000121,Fatima Pillay,NULL,BLUESTAR,Independent,Free State,Active
+SA-0000122,ADV000122,Grace Mahlangu,SIM-FSP-000122,Direct,,Gauteng,Active
+SA-0000123,ADV000123,Amina Ndlovu,SIM-FSP-000123,Blue Star,Metro Group,Eastern Cape,Yes
+SA-0000124,ADV000124,Ayanda Zulu,SIM-FSP-000124,BLUESTAR,Metro Group,Limpopo,Y
+SA-0000125,ADV000125,David Pillay,SIM-FSP-000125,Bank-Assurance,Coastal Network,Gauteng,Yes
+SA-0000126,ADV000126,Keitumetse Sithole,SIM-FSP-000126,Bank-Assurance,North Network,Eastern Cape,Active
+SA-0000127,ADV000127,Lwazi Dlamini,SIM-FSP-000127,Bank-Assurance,North Network,Northern Cape,Yes
+SA-0000128,ADV000128,Thandi van der Merwe,SIM-FSP-000128,Bank Assurance,Independent,Limpopo,Yes
+SA-0000129,ADV000129,Grace Adams,SIM-FSP-000129,Bank-Assurance,North Network,Gauteng,Yes
+SA-0000130,ADV000130,Ayanda Ndlovu,SIM-FSP-000130,Direct,,Limpopo,Y
+SA-0000131,ADV000131,Tshepo Mahlangu,SIM-FSP-000131,Direct,Independent,Northern Cape,1
+SA-0000132,ADV000132,Neo Sithole,SIM-FSP-000132,Blue Star,Coastal Network,Free State,Yes
+SA-0000133,ADV000133,Amina Molefe,SIM-FSP-000133,BLUESTAR,Metro Group,KwaZulu-Natal,1
+SA-0000134,ADV000134,Brian Nkosi,SIM-FSP-000134,Bank Assurance,North Network,Western Cape,1
+SA-0000135,ADV000135,Lwazi Naidoo,SIM-FSP-000135,Bank-Assurance,Metro Group,KwaZulu-Natal,1
+SA-0000136,ADV000136,Naledi Pillay,SIM-FSP-000006,BlueStar,,North West,1
+SA-0000137,ADV000137,Amina Sithole,SIM-FSP-000137,Direct,Metro Group,Gauteng,1
+SA-0000138,ADV000138,Nandi Molefe,SIM-FSP-000138,Bank-Assurance,Independent,Free State,1
+SA-0000139,ADV000139,Ayanda Mabena,SIM-FSP-000139,Bank-Assurance,Coastal Network,Free State,Active
+SA-0000140,ADV000140,Portia Jacobs,SIM-FSP-000140,Blue Star,Independent,Gauteng,Active
+SA-0000141,ADV000141,Sipho Molefe,SIM-FSP-000141,BLUESTAR,Metro Group,Free State,Active
+SA-0000142,ADV000142,Fatima Mahlangu,SIM-FSP-000142,Blue Star,,Eastern Cape,N
+SA-0000143,ADV000143,Kabelo Adams,SIM-FSP-000037,Blue Star,North Network,Free State,Yes
+SA-0000144,ADV000144,Nomsa Mahlangu,SIM-FSP-000144,Bank-Assurance,North Network,Limpopo,Yes
+SA-0000145,ADV000145,Samuel Sithole,SIM-FSP-000145,Bank-Assurance,Coastal Network,North West,Yes
+SA-0000146,ADV000146,Tshepo Khumalo,SIM-FSP-000146,Bank-Assurance,Independent,Free State,Active
+SA-0000147,ADV000147,Naledi Pillay,N/A,BlueStar,Metro Group,Mpumalanga,Yes
+SA-0000148,ADV000148,Musa Williams,SIM-FSP-000148,BLUESTAR,Metro Group,Western Cape,Active
+SA-0000149,ADV000149,Mariam Sithole,SIM-FSP-000149,Direct,Independent,Free State,Active
+SA-0000150,ADV000150,Mariam Molefe,SIM-FSP-000150,Blue Star,North Network,Eastern Cape,Active
+SA-0000151,ADV000151,David Nkosi,SIM-FSP-000151,Bank-Assurance,Independent,Western Cape,1
+SA-0000152,ADV000152,David Smith,SIM-FSP-000152,Bank Assurance,Metro Group,Eastern Cape,1
+SA-0000153,ADV000153,Tshepo Zulu,SIM-FSP-000153,Bank Assurance,Coastal Network,Western Cape,1
+SA-0000154,ADV000154,Naledi Adams,SIM-FSP-000154,Bank Assurance,North Network,Limpopo,1
+SA-0000155,ADV000155,Samuel Maseko,SIM-FSP-000155,Direct,Coastal Network,Mpumalanga,Y
+SA-0000156,ADV000156,Zanele Naidoo,SIM-FSP-000156,Blue Star,North Network,Limpopo,N
+SA-0000157,ADV000157,Fatima Mokoena,SIM-FSP-000157,Direct,Metro Group,KwaZulu-Natal,Active
+SA-0000158,ADV000158,Neo Ndlovu,SIM-FSP-000158,Blue Star,,North West,1
+SA-0000159,ADV000159,Lerato Pillay,,Direct,Coastal Network,Western Cape,Yes
+SA-0000160,ADV000160,Nomsa Pillay,SIM-FSP-000160,Blue Star,,Gauteng,1
+SA-0000161,ADV000161,Lerato Mokoena,SIM-FSP-000161,BLUESTAR,Metro Group,Western Cape,Active
+SA-0000162,ADV000162,Daniel Smith,SIM-FSP-000162,Bank-Assurance,Independent,Western Cape,Active
+SA-0000163,ADV000163,Naledi Botha,SIM-FSP-000163,Blue Star,Metro Group,North West,Y
+SA-0000164,ADV000164,Daniel Naidoo,SIM-FSP-000164,Direct,Metro Group,Northern Cape,1
+SA-0000165,ADV000165,Portia Botha,SIM-FSP-000165,Bank-Assurance,,Free State,N
+SA-0000166,ADV000166,Grace Jacobs,SIM-FSP-000166,BLUESTAR,North Network,Western Cape,Active
+SA-0000167,ADV000167,Naledi Maseko,SIM-FSP-000167,BlueStar,Independent,Eastern Cape,Yes
+SA-0000168,ADV000168,Kabelo Naidoo,SIM-FSP-000168,Bank-Assurance,,Northern Cape,N
+SA-0000169,ADV000169,Fatima Sithole,SIM-FSP-000169,BlueStar,Independent,Free State,1
+SA-0000170,ADV000170,Tshepo Zulu,SIM-FSP-000170,BlueStar,Metro Group,Northern Cape,Active
+SA-0000171,ADV000171,Thandi Ndlovu,SIM-FSP-000171,Bank-Assurance,Coastal Network,Northern Cape,Y
+SA-0000172,ADV000172,Ayanda Khumalo,SIM-FSP-000172,Bank-Assurance,Metro Group,Western Cape,Y
+SA-0000173,ADV000173,Nandi Mahlangu,SIM-FSP-000173,BlueStar,,KwaZulu-Natal,1
+SA-0000174,ADV000174,Lwazi Naidoo,SIM-FSP-000174,Bank Assurance,Metro Group,KwaZulu-Natal,Y
+SA-0000175,ADV000175,Nandi Khumalo,SIM-FSP-000175,Blue Star,Metro Group,KwaZulu-Natal,N
+SA-0000176,ADV000176,Musa Nkosi,SIM-FSP-000176,Bank Assurance,Metro Group,Gauteng,Active
+SA-0000177,ADV000177,Sipho Adams,SIM-FSP-000177,BlueStar,Metro Group,Northern Cape,Yes
+SA-0000178,ADV000178,Tshepo Maseko,SIM-FSP-000178,Direct,,Free State,Y
+SA-0000179,ADV000179,Mariam Khumalo,SIM-FSP-000179,Bank Assurance,Coastal Network,Limpopo,1
+SA-0000180,ADV000180,Lwazi Botha,SIM-FSP-000180,Bank Assurance,,Northern Cape,N
+SA-0000181,ADV000181,Musa Nkosi,SIM-FSP-000181,Bank Assurance,Independent,Eastern Cape,N
+SA-0000182,ADV000182,Daniel Molefe,SIM-FSP-000182,BLUESTAR,Metro Group,Eastern Cape,N
+SA-0000183,ADV000183,Fatima Mahlangu,N/A,Bank-Assurance,Independent,Gauteng,Active
+SA-0000184,ADV000184,Daniel Sithole,SIM-FSP-000184,Direct,North Network,Western Cape,1
+SA-0000185,ADV000185,Lerato Smith,SIM-FSP-000185,BLUESTAR,Independent,KwaZulu-Natal,Active
+SA-0000186,ADV000186,Samuel Maseko,SIM-FSP-000186,BLUESTAR,North Network,Mpumalanga,Yes
+SA-0000187,ADV000187,Amina Dlamini,SIM-FSP-000187,Blue Star,,Mpumalanga,N
+SA-0000188,ADV000188,Thandi Adams,N/A,Direct,Coastal Network,North West,Y
+SA-0000189,ADV000189,Zanele Dlamini,,BlueStar,Independent,Northern Cape,1
+SA-0000190,ADV000190,Keitumetse Maseko,SIM-FSP-000190,N/A,Metro Group,Gauteng,Active
+SA-0000191,ADV000191,Mariam Zulu,SIM-FSP-000191,Bank Assurance,,Western Cape,N
+SA-0000192,ADV000192,Lwazi Jacobs,SIM-FSP-000192,Bank Assurance,Metro Group,KwaZulu-Natal,N
+SA-0000193,ADV000193,Nomsa Sithole,SIM-FSP-000193,Blue Star,Coastal Network,Gauteng,Yes
+SA-0000194,ADV000194,Samuel Mokoena,SIM-FSP-000194,Bank-Assurance,,Northern Cape,Yes
+SA-0000195,ADV000195,Nandi Mahlangu,SIM-FSP-000195,BlueStar,,Gauteng,Active
+SA-0000196,ADV000196,Ayanda van der Merwe,SIM-FSP-000196,Direct,North Network,Western Cape,Active
+SA-0000197,ADV000197,Fatima Botha,SIM-FSP-000197,Bank-Assurance,Coastal Network,Mpumalanga,1
+SA-0000198,ADV000198,Peter Zulu,SIM-FSP-000198,Direct,North Network,Northern Cape,Y
+SA-0000199,ADV000199,Grace van der Merwe,SIM-FSP-000199,BlueStar,Metro Group,Free State,Y
+SA-0000200,ADV000200,Grace Molefe,SIM-FSP-000200,Direct,Coastal Network,Western Cape,1
+SA-0000201,ADV000201,Zanele Naidoo,SIM-FSP-000201,BlueStar,Independent,Free State,1
+SA-0000202,ADV000202,Peter van der Merwe,SIM-FSP-000202,BlueStar,North Network,KwaZulu-Natal,Active
+SA-0000203,ADV000203,Samuel Botha,SIM-FSP-000203,Bank Assurance,,Limpopo,Yes
+SA-0000204,ADV000204,Daniel Botha,SIM-FSP-000204,Direct,,Mpumalanga,1
+SA-0000205,ADV000205,Sipho Ndlovu,SIM-FSP-000205,Direct,North Network,KwaZulu-Natal,N
+SA-0000206,ADV000206,Tshepo Pillay,SIM-FSP-000206,BLUESTAR,North Network,Northern Cape,Yes
+SA-0000207,ADV000207,Nandi Naidoo,SIM-FSP-000207,Direct,Independent,Northern Cape,Yes
+SA-0000208,ADV000208,David Botha,SIM-FSP-000208,Blue Star,North Network,North West,N
+SA-0000209,ADV000209,Mariam Jacobs,SIM-FSP-000209,Blue Star,Coastal Network,Mpumalanga,Y
+SA-0000210,ADV000210,Nandi Smith,SIM-FSP-000210,Bank-Assurance,Coastal Network,Gauteng,Yes
+SA-0000211,ADV000211,Zanele Maseko,SIM-FSP-000211,Bank-Assurance,Independent,Limpopo,Active
+SA-0000212,ADV000212,Nomsa Botha,SIM-FSP-000162,NULL,Independent,KwaZulu-Natal,Yes
+SA-0000213,ADV000213,Tshepo Smith,SIM-FSP-000213,BlueStar,Independent,Mpumalanga,Active
+SA-0000214,ADV000214,Keitumetse Khumalo,SIM-FSP-000214,BlueStar,Coastal Network,Western Cape,Y
+SA-0000215,ADV000215,Grace Khumalo,,Bank-Assurance,Coastal Network,Gauteng,N
+SA-0000216,ADV000216,David Smith,NULL,Bank Assurance,Metro Group,KwaZulu-Natal,1
+SA-0000217,ADV000217,Sipho Mahlangu,SIM-FSP-000217,BLUESTAR,Independent,Limpopo,N
+SA-0000218,ADV000218,Lerato Mabena,SIM-FSP-000218,Bank Assurance,Independent,Limpopo,Yes
+SA-0000219,ADV000219,Lwazi Zulu,N/A,BLUESTAR,Metro Group,Free State,Y
+SA-0000220,ADV000220,Samuel Sithole,,Bank-Assurance,Coastal Network,KwaZulu-Natal,Y
+SA-0000221,ADV000221,Musa Sithole,SIM-FSP-000221,Direct,North Network,North West,Active
+SA-0000222,ADV000222,Keitumetse Dlamini,SIM-FSP-000222,BlueStar,North Network,KwaZulu-Natal,Yes
+SA-0000223,ADV000223,Neo van der Merwe,SIM-FSP-000223,Direct,North Network,Mpumalanga,Y
+SA-0000224,ADV000224,Mariam Nkosi,SIM-FSP-000224,Direct,North Network,Mpumalanga,Yes
+SA-0000225,ADV000225,Naledi Mthembu,SIM-FSP-000225,Bank Assurance,Independent,Northern Cape,Active
+SA-0000226,ADV000226,Kabelo Botha,SIM-FSP-000226,Blue Star,Independent,North West,Active
+SA-0000227,ADV000227,Lwazi Mabena,SIM-FSP-000227,BlueStar,North Network,Limpopo,N
+SA-0000228,ADV000228,Sipho Mokoena,SIM-FSP-000228,BlueStar,Coastal Network,Limpopo,Yes
+SA-0000229,ADV000229,Sipho Williams,SIM-FSP-000229,BLUESTAR,Coastal Network,Mpumalanga,Yes
+SA-0000230,ADV000230,Amina Adams,SIM-FSP-000230,BLUESTAR,Independent,Free State,N
+SA-0000231,ADV000231,Grace Williams,SIM-FSP-000231,Direct,Independent,KwaZulu-Natal,N
+SA-0000232,ADV000232,David Mahlangu,SIM-FSP-000232,Blue Star,Metro Group,Mpumalanga,Active
+SA-0000233,ADV000233,Tshepo Mokoena,SIM-FSP-000233,BLUESTAR,Metro Group,Gauteng,Active
+SA-0000234,ADV000234,Neo Mahlangu,SIM-FSP-000234,Direct,,Gauteng,Y
+SA-0000235,ADV000235,Musa Williams,SIM-FSP-000235,Blue Star,Metro Group,Gauteng,1
+SA-0000236,ADV000236,David Ndlovu,SIM-FSP-000236,BLUESTAR,Independent,Eastern Cape,Active
+SA-0000237,ADV000237,Zanele Nkosi,SIM-FSP-000237,BlueStar,Coastal Network,North West,N
+SA-0000238,ADV000238,David Pillay,SIM-FSP-000238,BLUESTAR,North Network,Limpopo,1
+SA-0000239,ADV000239,Kabelo Adams,SIM-FSP-000239,Blue Star,Coastal Network,Mpumalanga,1
+SA-0000240,ADV000240,Sipho Adams,SIM-FSP-000240,BLUESTAR,Metro Group,Eastern Cape,Active
+SA-0000241,ADV000241,Daniel Ndlovu,SIM-FSP-000241,Blue Star,Coastal Network,Limpopo,Y
+SA-0000242,ADV000242,Tshepo Zulu,SIM-FSP-000242,Bank Assurance,Coastal Network,Mpumalanga,Y
+SA-0000243,ADV000243,Peter Smith,SIM-FSP-000243,Blue Star,Independent,North West,N
+SA-0000244,ADV000244,Samuel Mabena,SIM-FSP-000244,Bank-Assurance,Metro Group,Gauteng,Active
+SA-0000245,ADV000245,Grace Smith,SIM-FSP-000245,Bank-Assurance,Metro Group,Mpumalanga,Yes
+SA-0000246,ADV000246,Kabelo Jacobs,SIM-FSP-000246,Direct,North Network,Limpopo,Active
+SA-0000247,ADV000247,Neo Khumalo,SIM-FSP-000247,Bank Assurance,Coastal Network,Free State,1
+SA-0000248,ADV000248,Fatima Molefe,SIM-FSP-000248,Bank Assurance,Independent,Limpopo,N
+SA-0000249,ADV000249,Nandi Mokoena,SIM-FSP-000249,Blue Star,,KwaZulu-Natal,1
+SA-0000250,ADV000250,Ayanda Botha,SIM-FSP-000250,Bank Assurance,Coastal Network,North West,1
+SA-0000251,ADV000251,Daniel Mthembu,SIM-FSP-000251,NULL,Metro Group,Eastern Cape,Yes
+SA-0000252,ADV000252,Grace Mokoena,SIM-FSP-000252,BlueStar,,Mpumalanga,Yes
+SA-0000253,ADV000253,Mariam Mahlangu,SIM-FSP-000253,Direct,North Network,Free State,Y
+SA-0000254,ADV000254,Peter Mabena,SIM-FSP-000254,Bank Assurance,Metro Group,Eastern Cape,Y
+SA-0000255,ADV000255,Daniel Dlamini,SIM-FSP-000255,Bank Assurance,,Mpumalanga,Active
+SA-0000256,ADV000256,Samuel Dlamini,SIM-FSP-000256,Bank-Assurance,,Gauteng,Yes
+SA-0000257,ADV000257,Brian Zulu,SIM-FSP-000257,BLUESTAR,Metro Group,Limpopo,N
+SA-0000258,ADV000258,Keitumetse Botha,SIM-FSP-000258,BlueStar,,Gauteng,1
+SA-0000259,ADV000259,Neo Smith,,BlueStar,Metro Group,Northern Cape,Y
+SA-0000260,ADV000260,Daniel Williams,SIM-FSP-000260,BlueStar,Metro Group,Gauteng,N
+SA-0000261,ADV000261,Thandi Mthembu,SIM-FSP-000261,BLUESTAR,,North West,Yes
+SA-0000262,ADV000262,Zanele Molefe,SIM-FSP-000262,BLUESTAR,Metro Group,North West,Yes
+SA-0000263,ADV000263,Peter Mabena,SIM-FSP-000263,Bank Assurance,Independent,Eastern Cape,N
+SA-0000264,ADV000264,Nandi Smith,SIM-FSP-000264,Bank Assurance,Coastal Network,KwaZulu-Natal,Y
+SA-0000265,ADV000265,Tshepo Dlamini,N/A,BlueStar,Coastal Network,Northern Cape,Active
+SA-0000266,ADV000266,Nandi Mthembu,SIM-FSP-000266,BlueStar,Coastal Network,KwaZulu-Natal,Y
+SA-0000267,ADV000267,Neo Williams,SIM-FSP-000267,Bank Assurance,North Network,Western Cape,N
+SA-0000268,ADV000268,Daniel Khumalo,SIM-FSP-000268,BlueStar,Independent,Western Cape,N
+SA-0000269,ADV000269,Keitumetse Molefe,SIM-FSP-000269,Bank Assurance,Metro Group,Eastern Cape,Active
+SA-0000270,ADV000270,Daniel Adams,SIM-FSP-000270,Direct,Independent,Gauteng,Yes
+SA-0000271,ADV000271,Ayanda van der Merwe,SIM-FSP-000271,BLUESTAR,Coastal Network,Mpumalanga,N
+SA-0000272,ADV000272,Portia Nkosi,SIM-FSP-000272,Direct,North Network,Gauteng,Active
+SA-0000273,ADV000273,Ayanda Pillay,SIM-FSP-000273,Bank Assurance,Independent,North West,Active
+SA-0000274,ADV000274,Portia Zulu,SIM-FSP-000274,Bank-Assurance,North Network,KwaZulu-Natal,Active
+SA-0000275,ADV000275,Zanele Sithole,SIM-FSP-000275,BLUESTAR,Metro Group,Mpumalanga,Yes
+SA-0000276,ADV000276,Sipho Sithole,SIM-FSP-000276,BlueStar,Metro Group,Free State,Yes
+SA-0000277,ADV000277,Nandi Nkosi,SIM-FSP-000277,Direct,Independent,KwaZulu-Natal,Y
+SA-0000278,ADV000278,Sipho Dlamini,SIM-FSP-000278,BLUESTAR,North Network,Mpumalanga,1
+SA-0000279,ADV000279,Tshepo Williams,SIM-FSP-000279,Direct,,Eastern Cape,Y
+SA-0000280,ADV000280,Mariam Mthembu,SIM-FSP-000280,Bank Assurance,Coastal Network,Mpumalanga,N
+SA-0000281,ADV000281,Tshepo Pillay,SIM-FSP-000281,Bank-Assurance,Metro Group,Mpumalanga,Yes
+SA-0000282,ADV000282,Neo Maseko,SIM-FSP-000282,Direct,North Network,Gauteng,N
+SA-0000283,ADV000283,Lerato Smith,SIM-FSP-000283,Direct,North Network,Gauteng,Y
+SA-0000284,ADV000284,Fatima Molefe,SIM-FSP-000284,Bank-Assurance,North Network,Eastern Cape,N
+SA-0000285,ADV000285,Samuel Dlamini,SIM-FSP-000285,Bank-Assurance,Metro Group,Northern Cape,Active
+SA-0000286,ADV000286,Mariam Naidoo,SIM-FSP-000286,Bank-Assurance,Independent,North West,Active
+SA-0000287,ADV000287,Nandi Khumalo,SIM-FSP-000287,BLUESTAR,Metro Group,North West,N
+SA-0000288,ADV000288,David Mabena,SIM-FSP-000288,Blue Star,Coastal Network,Mpumalanga,N
+SA-0000289,ADV000289,David Sithole,SIM-FSP-000289,BlueStar,North Network,Gauteng,Yes
+SA-0000290,ADV000290,Sipho Maseko,SIM-FSP-000290,Bank Assurance,North Network,North West,1
+SA-0000291,ADV000291,Thandi van der Merwe,SIM-FSP-000291,Bank Assurance,Independent,KwaZulu-Natal,N
+SA-0000292,ADV000292,Daniel Zulu,SIM-FSP-000292,BlueStar,Metro Group,Mpumalanga,Y
+SA-0000293,ADV000293,Thandi Khumalo,SIM-FSP-000293,Bank-Assurance,Independent,Gauteng,1
+SA-0000294,ADV000294,Portia Williams,SIM-FSP-000294,Bank Assurance,Coastal Network,Gauteng,1
+SA-0000295,ADV000295,Sipho Jacobs,SIM-FSP-000295,NULL,Independent,Eastern Cape,1
+SA-0000296,ADV000296,Keitumetse Nkosi,SIM-FSP-000296,BlueStar,Metro Group,Free State,Active
+SA-0000297,ADV000297,Nomsa Mahlangu,SIM-FSP-000297,Blue Star,Coastal Network,North West,Yes
+SA-0000298,ADV000298,David Mokoena,,BLUESTAR,North Network,Mpumalanga,Active
+SA-0000299,ADV000299,Ayanda Pillay,SIM-FSP-000299,BLUESTAR,North Network,KwaZulu-Natal,Y
+SA-0000300,ADV000300,Nandi Botha,SIM-FSP-000300,Direct,Independent,Limpopo,Yes
+SA-0000301,ADV000301,Sipho Sithole,SIM-FSP-000301,BLUESTAR,Coastal Network,Mpumalanga,1
+SA-0000302,ADV000302,Nomsa Maseko,SIM-FSP-000302,BlueStar,Independent,Eastern Cape,N
+SA-0000303,ADV000303,Grace Mokoena,N/A,Blue Star,Coastal Network,North West,N
+SA-0000304,ADV000304,Lwazi van der Merwe,SIM-FSP-000304,Bank Assurance,,Gauteng,Yes
+SA-0000305,ADV000305,Fatima Molefe,SIM-FSP-000305,Blue Star,Coastal Network,KwaZulu-Natal,Active
+SA-0000306,ADV000306,Peter Dlamini,SIM-FSP-000306,Bank Assurance,,North West,Y
+SA-0000307,ADV000307,Ayanda Pillay,SIM-FSP-000307,BlueStar,Coastal Network,Mpumalanga,Yes
+SA-0000308,ADV000308,Grace van der Merwe,SIM-FSP-000308,Blue Star,Independent,Free State,Y
+SA-0000309,ADV000309,Zanele Naidoo,SIM-FSP-000309,BLUESTAR,North Network,North West,Y
+SA-0000310,ADV000310,Ayanda Smith,SIM-FSP-000310,BLUESTAR,,North West,Active
+SA-0000311,ADV000311,Daniel Mahlangu,SIM-FSP-000311,BlueStar,Coastal Network,Western Cape,N
+SA-0000312,ADV000312,Kabelo Zulu,SIM-FSP-000312,BlueStar,,Gauteng,N
+SA-0000313,ADV000313,Nandi Williams,SIM-FSP-000313,Bank-Assurance,Metro Group,Eastern Cape,Active
+SA-0000314,ADV000314,Nomsa Zulu,SIM-FSP-000314,BLUESTAR,North Network,Northern Cape,Active
+SA-0000315,ADV000315,Fatima Zulu,SIM-FSP-000315,Direct,,North West,Y
+SA-0000316,ADV000316,Lwazi Maseko,SIM-FSP-000316,BLUESTAR,,KwaZulu-Natal,Y
+SA-0000317,ADV000317,Mariam Botha,SIM-FSP-000317,Blue Star,North Network,KwaZulu-Natal,Yes
+SA-0000318,ADV000318,Samuel Naidoo,SIM-FSP-000318,Bank Assurance,Metro Group,Free State,N
+SA-0000319,ADV000319,Amina Khumalo,SIM-FSP-000319,Blue Star,Coastal Network,KwaZulu-Natal,Active
+SA-0000320,ADV000320,Nomsa Smith,SIM-FSP-000320,Bank-Assurance,Metro Group,Free State,Yes
+SA-0000321,ADV000321,Thandi Mahlangu,NULL,Bank-Assurance,,KwaZulu-Natal,Active
+SA-0000322,ADV000322,Samuel Sithole,SIM-FSP-000322,Bank Assurance,North Network,North West,Y
+SA-0000323,ADV000323,Kabelo Zulu,SIM-FSP-000323,BLUESTAR,North Network,Free State,Active
+SA-0000324,ADV000324,Ayanda van der Merwe,SIM-FSP-000324,Direct,Metro Group,Northern Cape,N
+SA-0000325,ADV000325,Naledi Williams,SIM-FSP-000325,Direct,,Gauteng,1
+SA-0000326,ADV000326,Brian Mthembu,SIM-FSP-000326,BlueStar,North Network,Western Cape,Active
+SA-0000327,ADV000327,Amina Pillay,SIM-FSP-000238,Blue Star,,Free State,1
+SA-0000328,ADV000328,Brian Zulu,SIM-FSP-000328,BLUESTAR,Independent,KwaZulu-Natal,Active
+SA-0000329,ADV000329,Thandi Mabena,SIM-FSP-000329,Bank Assurance,,Northern Cape,Active
+SA-0000330,ADV000330,Amina Smith,SIM-FSP-000330,,Independent,KwaZulu-Natal,N
+SA-0000331,ADV000331,Nandi Mokoena,SIM-FSP-000331,Bank-Assurance,Metro Group,Limpopo,N
+SA-0000332,ADV000332,Zanele Naidoo,SIM-FSP-000332,Bank-Assurance,North Network,KwaZulu-Natal,Yes
+SA-0000333,ADV000333,Mariam Jacobs,SIM-FSP-000333,Blue Star,,Northern Cape,N
+SA-0000334,ADV000334,Nomsa Naidoo,SIM-FSP-000334,BLUESTAR,Metro Group,Limpopo,1
+SA-0000335,ADV000335,Ayanda Mabena,SIM-FSP-000335,BLUESTAR,Independent,Gauteng,Y
+SA-0000336,ADV000336,David Mokoena,SIM-FSP-000336,Direct,North Network,Western Cape,Yes
+SA-0000337,ADV000337,David Mthembu,SIM-FSP-000337,Direct,North Network,Eastern Cape,1
+SA-0000338,ADV000338,Portia Botha,SIM-FSP-000338,BLUESTAR,North Network,North West,Yes
+SA-0000339,ADV000339,Tshepo Maseko,SIM-FSP-000339,Blue Star,,Mpumalanga,Y
+SA-0000340,ADV000340,Zanele Khumalo,SIM-FSP-000340,BlueStar,Coastal Network,Gauteng,1
+SA-0000341,ADV000341,Sipho Jacobs,SIM-FSP-000341,BLUESTAR,North Network,Western Cape,1
+SA-0000342,ADV000342,Brian Jacobs,SIM-FSP-000342,Bank-Assurance,,Western Cape,Active
+SA-0000343,ADV000343,Musa Zulu,SIM-FSP-000343,Blue Star,Coastal Network,Limpopo,1
+SA-0000344,ADV000344,Kabelo van der Merwe,SIM-FSP-000344,Bank Assurance,Independent,Mpumalanga,Active
+SA-0000345,ADV000345,Samuel Maseko,SIM-FSP-000345,Bank Assurance,Independent,Limpopo,1
+SA-0000346,ADV000346,Thandi Molefe,SIM-FSP-000346,Direct,Coastal Network,Mpumalanga,Y
+SA-0000347,ADV000347,Lerato Molefe,SIM-FSP-000347,BlueStar,,KwaZulu-Natal,Y
+SA-0000348,ADV000348,Brian van der Merwe,SIM-FSP-000348,BLUESTAR,North Network,North West,Active
+SA-0000349,ADV000349,Tshepo Naidoo,SIM-FSP-000349,Bank Assurance,North Network,KwaZulu-Natal,N
+SA-0000350,ADV000350,Brian Mthembu,SIM-FSP-000211,BLUESTAR,Independent,Northern Cape,Active
+SA-0000351,ADV000351,Mariam Naidoo,SIM-FSP-000351,Bank Assurance,Coastal Network,KwaZulu-Natal,N
+SA-0000352,ADV000352,Neo Molefe,SIM-FSP-000352,BlueStar,Independent,Gauteng,Y
+SA-0000353,ADV000353,Thandi Nkosi,SIM-FSP-000353,Bank Assurance,Coastal Network,Mpumalanga,N
+SA-0000354,ADV000354,Naledi Adams,SIM-FSP-000354,Bank Assurance,Coastal Network,Northern Cape,Y
+SA-0000355,ADV000355,Thandi Smith,SIM-FSP-000355,,North Network,Western Cape,Y
+SA-0000356,ADV000356,Portia Mahlangu,SIM-FSP-000356,Blue Star,Coastal Network,Eastern Cape,N
+SA-0000357,ADV000357,Naledi Mahlangu,SIM-FSP-000357,N/A,Coastal Network,Northern Cape,1
+SA-0000358,ADV000358,Sipho Smith,SIM-FSP-000358,Bank Assurance,,Limpopo,1
+SA-0000359,ADV000359,Ayanda Mthembu,SIM-FSP-000359,Direct,Independent,North West,1
+SA-0000360,ADV000360,Ayanda Mabena,SIM-FSP-000360,Direct,Metro Group,Mpumalanga,N
+SA-0000361,ADV000361,Mariam Dlamini,SIM-FSP-000361,Blue Star,Independent,Mpumalanga,N
+SA-0000362,ADV000362,Nomsa Williams,SIM-FSP-000362,Bank Assurance,Independent,Limpopo,1
+SA-0000363,ADV000363,Daniel Khumalo,SIM-FSP-000363,Direct,Metro Group,Mpumalanga,N
+SA-0000364,ADV000364,Grace Mahlangu,SIM-FSP-000364,Bank-Assurance,Metro Group,Eastern Cape,Yes
+SA-0000365,ADV000365,Naledi Smith,SIM-FSP-000365,Bank Assurance,Coastal Network,Western Cape,Active
+SA-0000366,ADV000366,Zanele Smith,SIM-FSP-000366,Bank Assurance,Metro Group,Limpopo,Yes
+SA-0000367,ADV000367,Portia Botha,SIM-FSP-000367,Direct,,Northern Cape,N
+SA-0000368,ADV000368,Samuel Mokoena,SIM-FSP-000368,Bank-Assurance,Independent,Limpopo,Yes
+SA-0000369,ADV000369,Daniel Zulu,SIM-FSP-000369,Blue Star,North Network,Gauteng,1
+SA-0000370,ADV000370,Amina Maseko,SIM-FSP-000370,Blue Star,,Western Cape,Active
+SA-0000371,ADV000371,Neo Mahlangu,SIM-FSP-000371,Direct,Coastal Network,KwaZulu-Natal,Y
+SA-0000372,ADV000372,Grace Pillay,SIM-FSP-000372,BlueStar,Metro Group,Limpopo,1
+SA-0000373,ADV000373,David Ndlovu,SIM-FSP-000373,BLUESTAR,Metro Group,KwaZulu-Natal,N
+SA-0000374,ADV000374,Lerato Sithole,SIM-FSP-000374,Bank Assurance,,Eastern Cape,N
+SA-0000375,ADV000375,Daniel Molefe,SIM-FSP-000346,Direct,North Network,North West,Yes
+SA-0000376,ADV000376,Daniel Smith,SIM-FSP-000376,Bank-Assurance,Coastal Network,Eastern Cape,Active
+SA-0000377,ADV000377,Amina van der Merwe,SIM-FSP-000377,Bank Assurance,,KwaZulu-Natal,N
+SA-0000378,ADV000378,Naledi Sithole,SIM-FSP-000378,Bank-Assurance,,Western Cape,Y
+SA-0000379,ADV000379,Sipho Mahlangu,SIM-FSP-000379,Direct,,KwaZulu-Natal,1
+SA-0000380,ADV000380,Lerato Jacobs,SIM-FSP-000380,Direct,Metro Group,Eastern Cape,Active
+SA-0000381,ADV000381,Ayanda Sithole,SIM-FSP-000381,Bank Assurance,Independent,KwaZulu-Natal,N
+SA-0000382,ADV000382,Peter Adams,SIM-FSP-000382,Bank Assurance,Metro Group,Eastern Cape,Yes
+SA-0000383,ADV000383,Fatima Adams,SIM-FSP-000383,Bank-Assurance,Independent,Northern Cape,Yes
+SA-0000384,ADV000384,Tshepo Sithole,SIM-FSP-000384,BLUESTAR,Metro Group,Limpopo,Yes
+SA-0000385,ADV000385,Musa Williams,SIM-FSP-000385,BLUESTAR,Coastal Network,KwaZulu-Natal,Yes
+SA-0000386,ADV000386,Peter Pillay,SIM-FSP-000386,Blue Star,Coastal Network,Eastern Cape,Active
+SA-0000387,ADV000387,Amina Sithole,NULL,BlueStar,Coastal Network,KwaZulu-Natal,Yes
+SA-0000388,ADV000388,Musa Naidoo,SIM-FSP-000388,Bank-Assurance,North Network,KwaZulu-Natal,1
+SA-0000389,ADV000389,Naledi Jacobs,SIM-FSP-000389,Bank-Assurance,Independent,Gauteng,N
+SA-0000390,ADV000390,Musa Botha,SIM-FSP-000390,BlueStar,North Network,Limpopo,N
+SA-0000391,ADV000391,Lwazi Dlamini,SIM-FSP-000391,Blue Star,North Network,Free State,Y
+SA-0000392,ADV000392,Nomsa Pillay,SIM-FSP-000392,Direct,Metro Group,Mpumalanga,Y
+SA-0000393,ADV000393,Thandi Williams,SIM-FSP-000393,Direct,Metro Group,Limpopo,Active
+SA-0000394,ADV000394,David Williams,SIM-FSP-000394,Direct,North Network,Free State,Yes
+SA-0000395,ADV000395,Neo Smith,SIM-FSP-000395,BlueStar,Metro Group,Limpopo,N
+SA-0000396,ADV000396,Nomsa Botha,SIM-FSP-000396,BlueStar,North Network,Mpumalanga,Active
+SA-0000397,ADV000397,Samuel Mthembu,SIM-FSP-000397,BLUESTAR,,Northern Cape,Active
+SA-0000398,ADV000398,Lwazi Adams,SIM-FSP-000398,BLUESTAR,Coastal Network,Free State,Y
+SA-0000399,ADV000399,Portia Khumalo,SIM-FSP-000399,Bank-Assurance,North Network,Limpopo,Y
+SA-0000400,ADV000400,Nandi Mthembu,SIM-FSP-000400,Direct,Coastal Network,Free State,N
+SA-0000401,ADV000401,David Naidoo,SIM-FSP-000401,Bank-Assurance,,Limpopo,Active
+SA-0000402,ADV000402,Grace Nkosi,SIM-FSP-000402,,Coastal Network,Eastern Cape,Y
+SA-0000403,ADV000403,Sipho Mokoena,SIM-FSP-000403,BLUESTAR,Independent,North West,N
+SA-0000404,ADV000404,Portia Zulu,SIM-FSP-000404,BlueStar,Independent,Limpopo,1
+SA-0000405,ADV000405,Sipho Adams,SIM-FSP-000212,BLUESTAR,North Network,Northern Cape,Yes
+SA-0000406,ADV000406,Ayanda Maseko,SIM-FSP-000406,Direct,Coastal Network,Eastern Cape,Active
+SA-0000407,ADV000407,Fatima Ndlovu,SIM-FSP-000407,BlueStar,North Network,Free State,Y
+SA-0000408,ADV000408,Ayanda Khumalo,SIM-FSP-000408,Direct,Independent,Limpopo,Yes
+SA-0000409,ADV000409,Thandi Mahlangu,SIM-FSP-000409,BlueStar,,Eastern Cape,Yes
+SA-0000410,ADV000410,Peter Mthembu,SIM-FSP-000410,BlueStar,Independent,Gauteng,Yes
+SA-0000411,ADV000411,Sipho Jacobs,SIM-FSP-000411,Bank-Assurance,Independent,Northern Cape,Active
+SA-0000412,ADV000412,Thandi Mahlangu,SIM-FSP-000412,NULL,North Network,KwaZulu-Natal,Y
+SA-0000413,ADV000413,Naledi Botha,SIM-FSP-000413,Bank Assurance,Independent,Mpumalanga,Active
+SA-0000414,ADV000414,Lwazi Maseko,SIM-FSP-000414,Blue Star,Coastal Network,Gauteng,Y
+SA-0000415,ADV000415,Mariam Sithole,SIM-FSP-000415,Bank-Assurance,,Northern Cape,Y
+SA-0000416,ADV000416,Mariam Mahlangu,SIM-FSP-000416,BlueStar,North Network,KwaZulu-Natal,N
+SA-0000417,ADV000417,Naledi Maseko,SIM-FSP-000315,Direct,,Northern Cape,1
+SA-0000418,ADV000418,Zanele Nkosi,SIM-FSP-000418,Direct,North Network,Limpopo,1
+SA-0000419,ADV000419,Musa Botha,SIM-FSP-000419,Blue Star,Independent,Mpumalanga,N
+SA-0000420,ADV000420,Keitumetse Ndlovu,SIM-FSP-000420,Blue Star,Independent,North West,N
+SA-0000421,ADV000421,Sipho Mokoena,SIM-FSP-000421,BlueStar,North Network,Free State,Y
+SA-0000422,ADV000422,Musa Nkosi,NULL,NULL,North Network,Gauteng,Yes
+SA-0000423,ADV000423,Portia Molefe,SIM-FSP-000423,Blue Star,Coastal Network,Limpopo,Yes
+SA-0000424,ADV000424,Nomsa Dlamini,SIM-FSP-000424,Bank Assurance,North Network,Gauteng,Yes
+SA-0000425,ADV000425,Kabelo Smith,SIM-FSP-000425,Direct,,North West,Active
+SA-0000426,ADV000426,Nomsa Adams,SIM-FSP-000426,BlueStar,Independent,Eastern Cape,Active
+SA-0000427,ADV000427,Thandi Williams,SIM-FSP-000427,BlueStar,Coastal Network,Free State,Active
+SA-0000428,ADV000428,Keitumetse Nkosi,SIM-FSP-000428,BLUESTAR,Metro Group,Gauteng,Active
+SA-0000429,ADV000429,Zanele Zulu,SIM-FSP-000429,BLUESTAR,Metro Group,Mpumalanga,Y
+SA-0000430,ADV000430,Daniel Mabena,SIM-FSP-000430,Bank-Assurance,Metro Group,Limpopo,Active
+SA-0000431,ADV000431,Kabelo Maseko,SIM-FSP-000431,Bank Assurance,Metro Group,Mpumalanga,1
+SA-0000432,ADV000432,Mariam Naidoo,SIM-FSP-000432,Blue Star,North Network,KwaZulu-Natal,N
+SA-0000433,ADV000433,Daniel Adams,SIM-FSP-000433,Bank Assurance,,Western Cape,Active
+SA-0000434,ADV000434,Neo Khumalo,SIM-FSP-000306,BLUESTAR,Metro Group,Mpumalanga,Y
+SA-0000435,ADV000435,Nomsa Pillay,SIM-FSP-000435,Bank Assurance,North Network,Free State,Yes
+SA-0000436,ADV000436,Ayanda Williams,SIM-FSP-000436,Bank Assurance,Independent,Northern Cape,Active
+SA-0000437,ADV000437,Nomsa Williams,SIM-FSP-000437,Direct,North Network,Western Cape,Y
+SA-0000438,ADV000438,Sipho Pillay,SIM-FSP-000438,Bank Assurance,Metro Group,Free State,1
+SA-0000439,ADV000439,Brian Naidoo,SIM-FSP-000439,Direct,Coastal Network,Gauteng,Yes
+SA-0000440,ADV000440,Kabelo Mthembu,SIM-FSP-000440,BlueStar,,Limpopo,Yes
+SA-0000441,ADV000441,Portia Mokoena,NULL,BLUESTAR,Metro Group,North West,1
+SA-0000442,ADV000442,Portia Mthembu,SIM-FSP-000442,BLUESTAR,Metro Group,Free State,Yes
+SA-0000443,ADV000443,Fatima Mabena,SIM-FSP-000443,Blue Star,North Network,Limpopo,Active
+SA-0000444,ADV000444,Naledi Botha,SIM-FSP-000444,Direct,,Mpumalanga,1
+SA-0000445,ADV000445,Lerato Dlamini,SIM-FSP-000445,Direct,,Western Cape,N
+SA-0000446,ADV000446,Tshepo Mahlangu,SIM-FSP-000446,Direct,North Network,Mpumalanga,Yes
+SA-0000447,ADV000447,Fatima Williams,SIM-FSP-000286,BlueStar,Independent,KwaZulu-Natal,N
+SA-0000448,ADV000448,Amina Nkosi,SIM-FSP-000448,Direct,Metro Group,Mpumalanga,Active
+SA-0000449,ADV000449,Peter Nkosi,SIM-FSP-000449,Bank Assurance,North Network,Gauteng,N
+SA-0000450,ADV000450,Daniel Zulu,SIM-FSP-000450,Direct,North Network,North West,Yes
+SA-0000451,ADV000451,Kabelo Naidoo,SIM-FSP-000451,BlueStar,Coastal Network,North West,N
+SA-0000452,ADV000452,Zanele Naidoo,SIM-FSP-000452,BLUESTAR,Independent,Northern Cape,Yes
+SA-0000453,ADV000453,Kabelo Dlamini,SIM-FSP-000453,Direct,Coastal Network,Limpopo,1
+SA-0000454,ADV000454,Neo Molefe,SIM-FSP-000454,Direct,,KwaZulu-Natal,1
+SA-0000455,ADV000455,Mariam Maseko,SIM-FSP-000455,NULL,North Network,North West,Active
+SA-0000456,ADV000456,Portia Zulu,SIM-FSP-000456,BlueStar,,Western Cape,1
+SA-0000457,ADV000457,Daniel Mthembu,SIM-FSP-000457,Direct,North Network,Mpumalanga,Y
+SA-0000458,ADV000458,Peter Mokoena,SIM-FSP-000458,Direct,,Mpumalanga,N
+SA-0000459,ADV000459,David Mokoena,SIM-FSP-000459,Blue Star,Independent,Limpopo,N
+SA-0000460,ADV000460,Nandi Ndlovu,SIM-FSP-000460,Direct,Coastal Network,Eastern Cape,Active
+SA-0000461,ADV000461,Brian Naidoo,SIM-FSP-000461,Bank-Assurance,North Network,Northern Cape,Y
+SA-0000462,ADV000462,David Mokoena,SIM-FSP-000462,Bank Assurance,North Network,Mpumalanga,Active
+SA-0000463,ADV000463,Sipho Maseko,SIM-FSP-000463,BlueStar,Metro Group,Limpopo,N
+SA-0000464,ADV000464,Tshepo Mabena,SIM-FSP-000464,Bank-Assurance,,Eastern Cape,1
+SA-0000465,ADV000465,Daniel Ndlovu,SIM-FSP-000465,Direct,,Western Cape,Active
+SA-0000466,ADV000466,Naledi Nkosi,SIM-FSP-000466,BlueStar,Metro Group,KwaZulu-Natal,Active
+SA-0000467,ADV000467,Thandi van der Merwe,SIM-FSP-000467,Bank Assurance,,Free State,N
+SA-0000468,ADV000468,Daniel Nkosi,SIM-FSP-000468,Bank-Assurance,North Network,Limpopo,Y
+SA-0000469,ADV000469,Zanele Mokoena,SIM-FSP-000469,,Independent,Limpopo,1
+SA-0000470,ADV000470,Ayanda Ndlovu,SIM-FSP-000470,Bank-Assurance,North Network,Northern Cape,Yes
+SA-0000471,ADV000471,Amina Mokoena,SIM-FSP-000471,Direct,North Network,Northern Cape,Yes
+SA-0000472,ADV000472,Thandi Mahlangu,SIM-FSP-000472,BlueStar,,North West,Y
+SA-0000473,ADV000473,Musa Dlamini,SIM-FSP-000473,Blue Star,North Network,Free State,1
+SA-0000474,ADV000474,Peter Pillay,SIM-FSP-000474,Blue Star,Metro Group,Free State,Yes
+SA-0000475,ADV000475,Samuel Molefe,SIM-FSP-000475,BLUESTAR,North Network,Limpopo,1
+SA-0000476,ADV000476,Nandi Mokoena,SIM-FSP-000476,Direct,Metro Group,Mpumalanga,Active
+SA-0000477,ADV000477,Grace Naidoo,SIM-FSP-000477,Bank Assurance,,Eastern Cape,N
+SA-0000478,ADV000478,Nomsa Pillay,SIM-FSP-000478,Blue Star,Coastal Network,KwaZulu-Natal,N
+SA-0000479,ADV000479,Peter Mthembu,SIM-FSP-000479,BlueStar,Independent,Limpopo,1
+SA-0000480,ADV000480,Naledi Botha,SIM-FSP-000480,BlueStar,Coastal Network,Mpumalanga,Yes
+SA-0000481,ADV000481,Grace Zulu,SIM-FSP-000481,BLUESTAR,Metro Group,Gauteng,1
+SA-0000482,ADV000482,Nandi Jacobs,SIM-FSP-000482,Direct,,North West,N
+SA-0000483,ADV000483,Kabelo Mahlangu,,Direct,,Mpumalanga,Active
+SA-0000484,ADV000484,Ayanda Mthembu,SIM-FSP-000484,Bank Assurance,,Limpopo,Yes
+SA-0000485,ADV000485,Keitumetse Khumalo,SIM-FSP-000485,Direct,Independent,Western Cape,N
+SA-0000486,ADV000486,Kabelo Mahlangu,SIM-FSP-000486,BLUESTAR,Metro Group,Free State,Yes
+SA-0000487,ADV000487,Peter Botha,,Bank-Assurance,North Network,Western Cape,Active
+SA-0000488,ADV000488,Samuel Mahlangu,SIM-FSP-000488,BLUESTAR,Coastal Network,Free State,1
+SA-0000489,ADV000489,Lerato Adams,SIM-FSP-000489,BLUESTAR,North Network,Eastern Cape,Yes
+SA-0000490,ADV000490,Fatima Nkosi,SIM-FSP-000490,Blue Star,Metro Group,Gauteng,1
+SA-0000491,ADV000491,Tshepo Jacobs,SIM-FSP-000491,BLUESTAR,Independent,North West,Active
+SA-0000492,ADV000492,Grace Williams,SIM-FSP-000492,BlueStar,Coastal Network,Western Cape,Active
+SA-0000493,ADV000493,Samuel Nkosi,SIM-FSP-000493,Direct,Metro Group,Gauteng,1
+SA-0000494,ADV000494,Samuel Williams,SIM-FSP-000494,Bank Assurance,Independent,Free State,N
+SA-0000495,ADV000495,Brian Jacobs,SIM-FSP-000495,Blue Star,Metro Group,Free State,N
+SA-0000496,ADV000496,Amina Nkosi,SIM-FSP-000496,BLUESTAR,Independent,Mpumalanga,Y
+SA-0000497,ADV000497,Zanele van der Merwe,SIM-FSP-000497,BLUESTAR,North Network,Northern Cape,Yes
+SA-0000498,ADV000498,Grace Sithole,SIM-FSP-000498,Bank-Assurance,Independent,Northern Cape,Yes
+SA-0000499,ADV000499,Neo Ndlovu,SIM-FSP-000499,Blue Star,Coastal Network,Eastern Cape,1
+SA-0000500,ADV000500,David Mokoena,SIM-FSP-000500,Bank Assurance,Independent,Mpumalanga,Active
+SA-0000501,ADV000501,Brian Smith,SIM-FSP-000501,Direct,Coastal Network,Western Cape,N
+SA-0000502,ADV000502,Mariam Ndlovu,SIM-FSP-000502,BlueStar,,Free State,Active
+SA-0000503,ADV000503,Musa Khumalo,SIM-FSP-000503,Bank-Assurance,,Western Cape,Yes
+SA-0000504,ADV000504,Ayanda Dlamini,SIM-FSP-000504,Blue Star,Coastal Network,Northern Cape,Yes
+SA-0000505,ADV000505,Naledi Pillay,SIM-FSP-000505,BLUESTAR,Coastal Network,Gauteng,N
+SA-0000506,ADV000506,Fatima Smith,SIM-FSP-000506,Bank Assurance,Metro Group,North West,N
+SA-0000507,ADV000507,Fatima Ndlovu,SIM-FSP-000507,BlueStar,Coastal Network,Free State,Y
+SA-0000508,ADV000508,Grace Ndlovu,SIM-FSP-000508,BlueStar,Independent,Eastern Cape,1
+SA-0000509,ADV000509,Peter Mokoena,SIM-FSP-000509,Blue Star,Metro Group,Limpopo,Active
+SA-0000510,ADV000510,Mariam Pillay,SIM-FSP-000510,Bank-Assurance,,Gauteng,Active
+SA-0000511,ADV000511,Tshepo Zulu,SIM-FSP-000511,Blue Star,Coastal Network,Mpumalanga,Active
+SA-0000512,ADV000512,Neo Adams,,Blue Star,Metro Group,Eastern Cape,N
+SA-0000513,ADV000513,Grace Molefe,SIM-FSP-000513,Bank-Assurance,North Network,Eastern Cape,Yes
+SA-0000514,ADV000514,Tshepo Smith,SIM-FSP-000514,Bank Assurance,Independent,Free State,Active
+SA-0000515,ADV000515,Zanele Sithole,SIM-FSP-000515,BLUESTAR,,Limpopo,Yes
+SA-0000516,ADV000516,Amina Nkosi,SIM-FSP-000516,Bank Assurance,North Network,North West,N
+SA-0000517,ADV000517,Keitumetse Mthembu,SIM-FSP-000517,Direct,Metro Group,Gauteng,Yes
+SA-0000518,ADV000518,Neo Khumalo,SIM-FSP-000518,BlueStar,,Limpopo,N
+SA-0000519,ADV000519,David Mthembu,SIM-FSP-000388,Direct,Metro Group,Eastern Cape,N
+SA-0000520,ADV000520,Ayanda Naidoo,SIM-FSP-000520,BLUESTAR,Metro Group,Gauteng,Active
+SA-0000521,ADV000521,Samuel Mthembu,SIM-FSP-000521,Bank-Assurance,Independent,Western Cape,Active
+SA-0000522,ADV000522,Peter Sithole,SIM-FSP-000522,Blue Star,Coastal Network,Free State,Active
+SA-0000523,ADV000523,Kabelo Mabena,SIM-FSP-000523,BLUESTAR,North Network,Western Cape,1
+SA-0000524,ADV000524,Mariam Pillay,SIM-FSP-000524,BLUESTAR,Metro Group,North West,N
+SA-0000525,ADV000525,Keitumetse van der Merwe,,Bank Assurance,,North West,1
+SA-0000526,ADV000526,Mariam Botha,SIM-FSP-000526,Bank Assurance,North Network,KwaZulu-Natal,Y
+SA-0000527,ADV000527,Samuel Mahlangu,SIM-FSP-000527,BlueStar,Metro Group,KwaZulu-Natal,1
+SA-0000528,ADV000528,Daniel Ndlovu,SIM-FSP-000528,Direct,,Eastern Cape,N
+SA-0000529,ADV000529,Portia Mokoena,SIM-FSP-000529,Direct,,North West,Active
+SA-0000530,ADV000530,Amina Mahlangu,SIM-FSP-000530,Direct,Coastal Network,Mpumalanga,Yes
+SA-0000531,ADV000531,Lwazi Smith,SIM-FSP-000531,BLUESTAR,Coastal Network,North West,Active
+SA-0000532,ADV000532,Kabelo Sithole,SIM-FSP-000532,BLUESTAR,Metro Group,Eastern Cape,Yes
+SA-0000533,ADV000533,Nandi Pillay,SIM-FSP-000533,Direct,Coastal Network,Mpumalanga,1
+SA-0000534,ADV000534,Grace Mthembu,SIM-FSP-000534,BLUESTAR,North Network,North West,Y
+SA-0000535,ADV000535,Nomsa van der Merwe,SIM-FSP-000535,NULL,Independent,Gauteng,N
+SA-0000536,ADV000536,Naledi Ndlovu,SIM-FSP-000536,Bank Assurance,,Northern Cape,1
+SA-0000537,ADV000537,Fatima Adams,SIM-FSP-000537,Direct,Metro Group,Free State,Y
+SA-0000538,ADV000538,Tshepo van der Merwe,SIM-FSP-000538,BLUESTAR,,North West,Active
+SA-0000539,ADV000539,Daniel Maseko,SIM-FSP-000539,BlueStar,North Network,Free State,1
+SA-0000540,ADV000540,Lwazi Naidoo,SIM-FSP-000115,BLUESTAR,,KwaZulu-Natal,Active
+SA-0000541,ADV000541,Daniel Mabena,SIM-FSP-000541,Direct,Independent,KwaZulu-Natal,Y
+SA-0000542,ADV000542,Neo Williams,SIM-FSP-000542,Blue Star,Coastal Network,KwaZulu-Natal,Y
+SA-0000543,ADV000543,Grace Williams,SIM-FSP-000543,Direct,Coastal Network,KwaZulu-Natal,Y
+SA-0000544,ADV000544,Grace Mahlangu,SIM-FSP-000544,Direct,Coastal Network,Eastern Cape,1
+SA-0000545,ADV000545,Fatima Adams,SIM-FSP-000545,Direct,Independent,Free State,1
+SA-0000546,ADV000546,Naledi Pillay,SIM-FSP-000546,BLUESTAR,Metro Group,North West,N
+SA-0000547,ADV000547,Mariam Mokoena,SIM-FSP-000547,Blue Star,,North West,Y
+SA-0000548,ADV000548,Portia Smith,SIM-FSP-000548,Direct,,Eastern Cape,1
+SA-0000549,ADV000549,Neo Zulu,SIM-FSP-000549,Blue Star,North Network,KwaZulu-Natal,N
+SA-0000550,ADV000550,Keitumetse Smith,NULL,Bank-Assurance,,Mpumalanga,1
+SA-0000551,ADV000551,Fatima Mokoena,SIM-FSP-000551,Direct,Metro Group,North West,Active
+SA-0000552,ADV000552,Musa Mthembu,SIM-FSP-000552,Bank-Assurance,North Network,North West,N
+SA-0000553,ADV000553,Fatima Zulu,SIM-FSP-000553,BLUESTAR,Independent,Gauteng,Yes
+SA-0000554,ADV000554,Lerato Sithole,SIM-FSP-000554,Direct,Coastal Network,Northern Cape,N
+SA-0000555,ADV000555,Naledi Dlamini,SIM-FSP-000555,Blue Star,Coastal Network,Northern Cape,N
+SA-0000556,ADV000556,Ayanda Molefe,SIM-FSP-000556,BlueStar,Metro Group,North West,Yes
+SA-0000557,ADV000557,Neo Ndlovu,SIM-FSP-000557,Bank-Assurance,,Gauteng,Active
+SA-0000558,ADV000558,Portia Williams,SIM-FSP-000558,BLUESTAR,North Network,KwaZulu-Natal,1
+SA-0000559,ADV000559,Amina Smith,SIM-FSP-000559,BlueStar,Metro Group,Gauteng,Yes
+SA-0000560,ADV000560,Mariam Maseko,SIM-FSP-000560,BlueStar,Independent,Eastern Cape,1
+SA-0000561,ADV000561,Zanele Pillay,SIM-FSP-000561,BlueStar,Coastal Network,North West,Yes
+SA-0000562,ADV000562,Neo Botha,SIM-FSP-000562,Bank Assurance,North Network,Free State,Yes
+SA-0000563,ADV000563,Keitumetse Adams,SIM-FSP-000563,Bank-Assurance,North Network,Eastern Cape,1
+SA-0000564,ADV000564,Fatima Jacobs,SIM-FSP-000564,BLUESTAR,Coastal Network,Eastern Cape,Yes
+SA-0000565,ADV000565,Lerato Mokoena,SIM-FSP-000565,Bank-Assurance,Independent,Western Cape,N
+SA-0000566,ADV000566,Samuel Mokoena,SIM-FSP-000566,Blue Star,Coastal Network,Northern Cape,Yes
+SA-0000567,ADV000567,Thandi Jacobs,SIM-FSP-000567,BLUESTAR,Coastal Network,Free State,Y
+SA-0000568,ADV000568,Portia Ndlovu,SIM-FSP-000568,N/A,Metro Group,Mpumalanga,N
+SA-0000569,ADV000569,Nomsa Williams,SIM-FSP-000569,BlueStar,Independent,Eastern Cape,Yes
+SA-0000570,ADV000570,Samuel Naidoo,SIM-FSP-000570,Bank Assurance,Coastal Network,Free State,N
+SA-0000571,ADV000571,Samuel Williams,SIM-FSP-000571,Bank Assurance,Coastal Network,Western Cape,Y
+SA-0000572,ADV000572,Nomsa Mthembu,SIM-FSP-000572,Bank Assurance,Coastal Network,Western Cape,Y
+SA-0000573,ADV000573,Lwazi Mabena,SIM-FSP-000573,Direct,,Gauteng,1
+SA-0000574,ADV000574,Brian Khumalo,NULL,BlueStar,Coastal Network,Eastern Cape,Yes
+SA-0000575,ADV000575,Ayanda Mokoena,SIM-FSP-000575,BLUESTAR,Coastal Network,Free State,Yes
+SA-0000576,ADV000576,Daniel Dlamini,SIM-FSP-000576,Direct,Independent,Gauteng,1
+SA-0000577,ADV000577,Nandi Mahlangu,SIM-FSP-000577,Bank Assurance,Independent,Gauteng,1
+SA-0000578,ADV000578,Grace Dlamini,NULL,BLUESTAR,North Network,Free State,N
+SA-0000579,ADV000579,Samuel Naidoo,SIM-FSP-000579,BLUESTAR,Metro Group,Free State,Active
+SA-0000580,ADV000580,Sipho Sithole,SIM-FSP-000580,Blue Star,Metro Group,Limpopo,N
+SA-0000581,ADV000581,Tshepo Botha,SIM-FSP-000581,BlueStar,Independent,North West,1
+SA-0000582,ADV000582,Peter Williams,SIM-FSP-000582,Direct,,Free State,N
+SA-0000583,ADV000583,Thandi Khumalo,SIM-FSP-000583,BlueStar,North Network,North West,Active
+SA-0000584,ADV000584,Fatima Nkosi,SIM-FSP-000584,BLUESTAR,Coastal Network,Western Cape,N
+SA-0000585,ADV000585,Kabelo Sithole,SIM-FSP-000585,Direct,Coastal Network,Limpopo,Y
+SA-0000586,ADV000586,Brian Smith,SIM-FSP-000586,Bank Assurance,Coastal Network,Limpopo,Yes
+SA-0000587,ADV000587,Neo Zulu,SIM-FSP-000587,Blue Star,Coastal Network,Limpopo,Y
+SA-0000588,ADV000588,Amina Ndlovu,SIM-FSP-000588,Bank-Assurance,Coastal Network,Gauteng,Y
+SA-0000589,ADV000589,Samuel Sithole,SIM-FSP-000589,Direct,Coastal Network,Limpopo,Yes
+SA-0000590,ADV000590,Fatima Jacobs,SIM-FSP-000590,BlueStar,Independent,Free State,Yes
+SA-0000591,ADV000591,Samuel Sithole,SIM-FSP-000591,BLUESTAR,North Network,KwaZulu-Natal,Active
+SA-0000592,ADV000592,Lerato Mabena,,NULL,Coastal Network,Northern Cape,1
+SA-0000593,ADV000593,Kabelo Mthembu,SIM-FSP-000593,BLUESTAR,Independent,North West,Y
+SA-0000594,ADV000594,Sipho Adams,SIM-FSP-000594,Blue Star,Coastal Network,Free State,Active
+SA-0000595,ADV000595,Neo Mahlangu,SIM-FSP-000595,Bank Assurance,North Network,Western Cape,Yes
+SA-0000596,ADV000596,Musa Smith,SIM-FSP-000596,BLUESTAR,North Network,Free State,Yes
+SA-0000597,ADV000597,Tshepo Adams,SIM-FSP-000597,BlueStar,Independent,Western Cape,N
+SA-0000598,ADV000598,Mariam Adams,SIM-FSP-000598,BlueStar,Metro Group,Western Cape,Active
+SA-0000599,ADV000599,Nomsa Botha,SIM-FSP-000599,Bank Assurance,Independent,Western Cape,1
+SA-0000600,ADV000600,Sipho Naidoo,SIM-FSP-000600,Bank Assurance,North Network,Gauteng,1

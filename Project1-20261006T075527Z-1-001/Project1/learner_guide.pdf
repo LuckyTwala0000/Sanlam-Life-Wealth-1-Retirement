@@ -1,0 +1,255 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 6344 >>
+stream
+0.080 0.290 0.480 rg 0 832 595 10 re f
+0.360 0.430 0.500 rg BT /F2 8 Tf 1 0 0 1 54.0 811.0 Tm (PROJECT 1 - SANLAM LIFE & SAVINGS | LEARNER GUIDE) Tj ET
+0.78 0.83 0.87 RG 1 w 54 801 m 541 801 l S
+0.900 0.950 0.960 rg 47 760 501 44 re f
+0.080 0.290 0.480 rg BT /F2 23 Tf 1 0 0 1 54.0 770.0 Tm (Project 1 Learner Guide) Tj ET
+0.080 0.290 0.480 rg BT /F2 15 Tf 1 0 0 1 54.0 734.0 Tm (Sanlam Life, Wealth and Retirement Data Modernization) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 705.0 Tm (Why this project exists) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 684.0 Tm (Sanlam's life and savings business brings together policy, client, adviser, claim, payment and) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 671.0 Tm (retirement-fund records from systems that were built and changed over many years. The same) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 658.0 Tm (person can appear more than once, product labels can differ between systems, and a claim or) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 645.0 Tm (payment can point to a policy that is missing from the extract. If the underlying records are) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 632.0 Tm (not reconciled, management can make poor decisions about pricing, claims, distribution and) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 619.0 Tm (retirement-fund liquidity.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 601.0 Tm (Your job is to create a reproducible path from messy source files to a trusted warehouse and) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 588.0 Tm (decision-ready reporting. The useful result is not merely a cleaned file. It is a documented,) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 575.0 Tm (auditable set of rules that lets another analyst explain where each number came from.) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 557.0 Tm (Business unit in plain language) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 536.0 Tm (- Life cover pays a defined benefit when an insured event, such as death or disability, meets) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 523.0 Tm (the policy terms.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 505.0 Tm (- Retirement annuities \(RAs\) are long-term retirement savings products. Contributions, fund) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 492.0 Tm (value, withdrawals and fees have different meanings; a contribution is not the same as current) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 479.0 Tm (assets under management \(AUM\).) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 461.0 Tm (- Wealth products can include investment-oriented products whose values change over time.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 443.0 Tm (- Advisers and distribution channels connect customers to products. Production alone does not) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 430.0 Tm (show whether a channel is profitable: commission, persistency and claims experience matter) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 417.0 Tm (too.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 399.0 Tm (- Claims are benefit payments or liabilities. A paid-claims measure is not the same as) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 386.0 Tm (incurred claims, which also considers outstanding reserves.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 368.0 Tm (- Premiums can be recorded as written, billed, collected or earned. State which one your ratio) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 355.0 Tm (uses.) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 337.0 Tm (Two-Pot retirement context) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 316.0 Tm (The project brief describes the South African Two-Pot retirement reform, effective from 1) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 303.0 Tm (September 2024. At a high level, eligible new contributions are allocated between savings and) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 290.0 Tm (retirement components, while pre-reform amounts may remain in a vested component. The extract) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 277.0 Tm (contains component balances and withdrawal activity so you can examine how the mix and) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 264.0 Tm (withdrawal velocity change over time.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 246.0 Tm (Treat this as an analytics exercise, not a legal-rule engine. Minimum withdrawal values,) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 233.0 Tm (frequency limits, tax treatment and exceptions can change or depend on the fund and member) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 220.0 Tm (circumstances. Do not invent a compliance conclusion from the sample. State any assumption and) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 207.0 Tm (verify current rules before proposing a production control.) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 189.0 Tm (Core analytical questions) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 168.0 Tm (1. Portfolio loss ratio: Which product and adviser-channel combinations have the highest) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 155.0 Tm (rolling 12-month paid claims relative to premium? Separate frequency \(how often claims occur\)) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 142.0 Tm (from severity \(average claim size\). Use a consistent premium basis and label the ratio) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 129.0 Tm (clearly.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 111.0 Tm (2. Retirement liquidity: How much AUM sits in savings, retirement and vested components? How) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 98.0 Tm (are savings withdrawals changing, and what would a simple 2x-velocity stress mean for) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 85.0 Tm (outflows? Use opening balances as the denominator for withdrawal velocity.) Tj ET
+0.78 0.83 0.87 RG 0.7 w 54 49 m 541 49 l S
+0.360 0.430 0.500 rg BT /F1 7 Tf 1 0 0 1 54.0 33.0 Tm (SIMULATED TRAINING MATERIAL | NOT FOR REAL CUSTOMER OR CLAIM DECISIONS) Tj ET
+0.360 0.430 0.500 rg BT /F2 8 Tf 1 0 0 1 471.0 33.0 Tm (Page 1) Tj ET
+
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 6930 >>
+stream
+0.080 0.290 0.480 rg 0 832 595 10 re f
+0.360 0.430 0.500 rg BT /F2 8 Tf 1 0 0 1 54.0 811.0 Tm (PROJECT 1 - SANLAM LIFE & SAVINGS | LEARNER GUIDE) Tj ET
+0.78 0.83 0.87 RG 1 w 54 801 m 541 801 l S
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 770.0 Tm (3. Channel productivity: Which channels create net premium after cancellations and reversals?) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 757.0 Tm (Compare commission as a share of net premium and examine 12-month persistency. High gross) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 744.0 Tm (sales are not necessarily durable, profitable business.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 726.0 Tm (4. Data quality: Which source and anomaly type drive defects? How many records are corrected,) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 713.0 Tm (quarantined, resolved or dropped? Show the rate as well as the count, because source volumes) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 700.0 Tm (differ.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 682.0 Tm (Every executive finding should state what changed, why it matters, and what action is supported) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 669.0 Tm (by the evidence. A single headline finding and recommendation should be visible for each) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 656.0 Tm (question.) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 638.0 Tm (KPI definitions to start from) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 617.0 Tm (Rolling 12-month loss ratio - Baseline definition: Claims paid in the last 12 months / premiums) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 604.0 Tm (in the last 12 months | Important decision: Confirm paid vs incurred claims and collected vs) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 591.0 Tm (written/earned premium.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 573.0 Tm (Claim frequency - Baseline definition: Number of claims / policies in force | Important) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 560.0 Tm (decision: Define the in-force date and treatment of multiple claims per policy.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 542.0 Tm (Claim severity - Baseline definition: Total claim amount / number of claims | Important) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 529.0 Tm (decision: State paid amount, incurred amount, currency and treatment of reversals.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 511.0 Tm (12-month persistency - Baseline definition: Policies still in force 12 months after inception /) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 498.0 Tm (policies incepted | Important decision: Handle policies that have not yet reached the 12-month) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 485.0 Tm (observation point.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 467.0 Tm (Commission efficiency - Baseline definition: Commission paid / net premium production |) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 454.0 Tm (Important decision: Define net premium as written premium less cancellations and reversals.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 436.0 Tm (Withdrawal velocity - Baseline definition: Savings withdrawals in the period / opening) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 423.0 Tm (savings-pot balance | Important decision: Specify period, eligible withdrawals, and how zero or) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 410.0 Tm (negative opening balances are handled.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 392.0 Tm (Anomaly rate - Baseline definition: Flagged records / records ingested | Important decision:) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 379.0 Tm (Report by source table and anomaly code.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 361.0 Tm (Cleaning efficiency - Baseline definition: Automatically corrected records / flagged records |) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 348.0 Tm (Important decision: Do not count quarantined or manually reviewed rows as automatic corrections.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 330.0 Tm (Quarantine resolution rate - Baseline definition: Resolved quarantined records / all quarantined) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 317.0 Tm (records | Important decision: Include an observation date or cohort so the rate is) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 304.0 Tm (interpretable.) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 286.0 Tm (Data engineering concepts) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 265.0 Tm (Profile before fixing. Record row counts, null rates, distinct values, duplicate candidates,) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 252.0 Tm (date ranges and numeric distributions for every source. Confirm which anomalies actually exist) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 239.0 Tm (instead of assuming the risk list is complete.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 221.0 Tm (Separate correction from suspicion. A category such as Blue Star, BlueStar and BLUE STAR may be) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 208.0 Tm (safely normalised after you establish that they mean the same thing. A very large death claim) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 195.0 Tm (may be valid and should be flagged for review rather than capped. An unmatched negative payment) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 182.0 Tm (may be an error; a negative payment with a matching reversal reference may be legitimate.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 164.0 Tm (Resolve people carefully. Normalise the synthetic ID string for a deterministic first pass. Use) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 151.0 Tm (a conservative name-and-birth-date match only as a candidate for review. Keep a reversible) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 138.0 Tm (crosswalk showing which source IDs were linked to the survivor. Avoid placing identifiers in a) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 125.0 Tm (dashboard or clear-text audit log.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 107.0 Tm (Make the run idempotent. Re-running the same inputs should not append duplicate facts or) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 94.0 Tm (duplicate audit records. Use a load-batch identifier, stable source-row keys, deterministic) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 81.0 Tm (rules and controlled upserts or clean rebuilds.) Tj ET
+0.78 0.83 0.87 RG 0.7 w 54 49 m 541 49 l S
+0.360 0.430 0.500 rg BT /F1 7 Tf 1 0 0 1 54.0 33.0 Tm (SIMULATED TRAINING MATERIAL | NOT FOR REAL CUSTOMER OR CLAIM DECISIONS) Tj ET
+0.360 0.430 0.500 rg BT /F2 8 Tf 1 0 0 1 471.0 33.0 Tm (Page 2) Tj ET
+
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 6112 >>
+stream
+0.080 0.290 0.480 rg 0 832 595 10 re f
+0.360 0.430 0.500 rg BT /F2 8 Tf 1 0 0 1 54.0 811.0 Tm (PROJECT 1 - SANLAM LIFE & SAVINGS | LEARNER GUIDE) Tj ET
+0.78 0.83 0.87 RG 1 w 54 801 m 541 801 l S
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 770.0 Tm (Account for every row. For each source, reconcile: rows read = loaded + quarantined +) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 757.0 Tm (intentionally dropped. A rejected row needs a reason code, source filename, load timestamp and a) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 744.0 Tm (clear route to resolve or reject it.) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 726.0 Tm (Warehouse and reporting concepts) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 705.0 Tm (A star schema separates descriptive dimensions from measurable facts. Use surrogate keys in) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 692.0 Tm (dimensions, retain source business identifiers for lineage, and use an explicit unknown member) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 679.0 Tm (only for legitimate late-arriving dimensions. Do not use the unknown key to conceal an orphan) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 666.0 Tm (that should be quarantined.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 648.0 Tm (Suggested grains:) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 630.0 Tm (- Policy-premium fact: one source premium or payment transaction per row.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 612.0 Tm (- Claims fact: one claim per row at the chosen paid/claim grain; document whether multiple) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 599.0 Tm (payment events are collapsed.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 581.0 Tm (- Payments fact: one ledger transaction per row.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 563.0 Tm (- Two-Pot fact: one account/member and component snapshot per snapshot date, with withdrawals) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 550.0 Tm (at a documented event or period grain.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 532.0 Tm (Keep a shared date dimension and use one-to-many, single-direction relationships unless a) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 519.0 Tm (justified case requires otherwise. Validate Power BI totals against independent SQL control) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 506.0 Tm (totals. In the quality report, show before/after counts and a lineage map from raw columns to) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 493.0 Tm (warehouse columns.) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 475.0 Tm (Suggested anomaly catalogue) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 454.0 Tm (Start with the BRD's codes and add any defects found during profiling:) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 436.0 Tm (- A01 duplicate client identity: repeated normalised synthetic ID; merge only under a) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 423.0 Tm (defensible rule and preserve a crosswalk.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 405.0 Tm (- A02 malformed date: fails every accepted input format; impute only with a documented rule) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 392.0 Tm (and an is_imputed flag.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 374.0 Tm (- A03 numeric outlier: outside a justified fence. Flag plausible large claims; consider) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 361.0 Tm (capping only clear entry errors such as a mistyped premium.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 343.0 Tm (- A04 orphan reference: source policy, client or adviser key has no parent; quarantine with) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 330.0 Tm (the missing key type.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 312.0 Tm (- A05 illogical chronology: policy end before start, claim before inception, or future-dated) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 299.0 Tm (payment.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 281.0 Tm (- A06 category variant: unmapped product, channel, gender or province label.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 263.0 Tm (- A07 balance inconsistency: component balances do not reconcile to total, or an implausible) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 250.0 Tm (negative component.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 232.0 Tm (- A08 duplicate transaction: repeated transaction reference or matching policy/date/amount;) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 219.0 Tm (distinguish true duplicates from repeated instalments.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 201.0 Tm (For every correction, retain table, source row key, field, original value, corrected value and) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 188.0 Tm (rule code. The audit log should explain the transformation without exposing real personal data.) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 170.0 Tm (A practical three-week sequence) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 149.0 Tm (Week 1 - Understand and clean: profile extracts, agree on KPI meanings, write the anomaly) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 136.0 Tm (catalogue, implement testable transformations, generate audit and quarantine outputs.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 118.0 Tm (Week 2 - Model and reconcile: build dimensions and facts, choose Type 1 or Type 2 treatment for) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 105.0 Tm (changing attributes, enforce foreign keys, add useful indexes, and prove row counts and) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 92.0 Tm (financial totals.) Tj ET
+0.78 0.83 0.87 RG 0.7 w 54 49 m 541 49 l S
+0.360 0.430 0.500 rg BT /F1 7 Tf 1 0 0 1 54.0 33.0 Tm (SIMULATED TRAINING MATERIAL | NOT FOR REAL CUSTOMER OR CLAIM DECISIONS) Tj ET
+0.360 0.430 0.500 rg BT /F2 8 Tf 1 0 0 1 471.0 33.0 Tm (Page 3) Tj ET
+
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 3314 >>
+stream
+0.080 0.290 0.480 rg 0 832 595 10 re f
+0.360 0.430 0.500 rg BT /F2 8 Tf 1 0 0 1 54.0 811.0 Tm (PROJECT 1 - SANLAM LIFE & SAVINGS | LEARNER GUIDE) Tj ET
+0.78 0.83 0.87 RG 1 w 54 801 m 541 801 l S
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 770.0 Tm (Week 3 - Explain and defend: build the semantic model and dashboard pages, verify DAX against) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 757.0 Tm (SQL, document RLS and refresh assumptions, and rehearse concise evidence-based recommendations.) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 739.0 Tm (Questions to defend in your final review) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 718.0 Tm (- Why is the chosen premium basis appropriate for this question?) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 700.0 Tm (- What happens to a legitimate high-value claim under your cleaning rules?) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 682.0 Tm (- How can an adviser or policy be traced without exposing identifiers in the dashboard?) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 664.0 Tm (- Which defects are corrected, and which are quarantined? Why?) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 646.0 Tm (- How do you prove that the load can be repeated without changing totals?) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 67.0 628.0 Tm (- What conclusion would change if the team's chosen treatment of outliers changed?) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 610.0 Tm (Short glossary) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 589.0 Tm (AUM: assets under management at a point in time. Earned premium: the portion of premium assigned) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 576.0 Tm (to the period of insurance coverage provided. Persistency: the share of a cohort that remains in) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 563.0 Tm (force after a defined period. Quarantine: a holding area for records that cannot safely enter) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 550.0 Tm (the analytical warehouse yet. Surrogate key: a warehouse-generated key that is separate from a) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 537.0 Tm (source-system identifier. Two-Pot: the retirement savings, retirement and vested component) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 524.0 Tm (structure described in the project brief.) Tj ET
+0.000 0.480 0.480 rg BT /F2 11 Tf 1 0 0 1 54.0 506.0 Tm (Training-data caution) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 485.0 Tm (Every record in this pack is fictional. Synthetic identity-like strings are not valid identity) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 472.0 Tm (numbers. Do not infer a person's identity, contact them, or use this dataset for real decisions.) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 459.0 Tm (The guide is based on the supplied simulated requirements and does not replace legal, actuarial,) Tj ET
+0.130 0.200 0.280 rg BT /F1 9 Tf 1 0 0 1 54.0 446.0 Tm (tax or regulatory advice.) Tj ET
+0.78 0.83 0.87 RG 0.7 w 54 49 m 541 49 l S
+0.360 0.430 0.500 rg BT /F1 7 Tf 1 0 0 1 54.0 33.0 Tm (SIMULATED TRAINING MATERIAL | NOT FOR REAL CUSTOMER OR CLAIM DECISIONS) Tj ET
+0.360 0.430 0.500 rg BT /F2 8 Tf 1 0 0 1 471.0 33.0 Tm (Page 4) Tj ET
+
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Title (Learner Guide) /Producer (stdlib training pack PDF builder) >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000141 00000 n 
+0000000238 00000 n 
+0000000340 00000 n 
+0000006736 00000 n 
+0000006872 00000 n 
+0000013854 00000 n 
+0000013990 00000 n 
+0000020154 00000 n 
+0000020291 00000 n 
+0000023658 00000 n 
+0000023796 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R /Info 13 0 R >>
+startxref
+23886
+%%EOF
