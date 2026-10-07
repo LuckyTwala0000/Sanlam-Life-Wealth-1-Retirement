@@ -1,0 +1,33 @@
+source_row_id,advisor_id,advisor_name,fsp_number,channel,network_name,province,active_flag
+SA-0000017,ADV000017,Daniel Smith,,BLUESTAR,North Network,Western Cape,Y
+SA-0000033,ADV000033,Nomsa Zulu,,BLUESTAR,Metro Group,Northern Cape,Y
+SA-0000035,ADV000035,Portia Molefe,,BlueStar,North Network,Northern Cape,1
+SA-0000055,ADV000055,Amina Mokoena,,Bank-Assurance,Independent,Northern Cape,N
+SA-0000076,ADV000076,Tshepo van der Merwe,,Blue Star,Metro Group,Eastern Cape,N
+SA-0000117,ADV000117,Tshepo Maseko,,Bank-Assurance,Coastal Network,North West,Active
+SA-0000121,ADV000121,Fatima Pillay,,BLUESTAR,Independent,Free State,Active
+SA-0000147,ADV000147,Naledi Pillay,,BlueStar,Metro Group,Mpumalanga,Yes
+SA-0000159,ADV000159,Lerato Pillay,,Direct,Coastal Network,Western Cape,Yes
+SA-0000183,ADV000183,Fatima Mahlangu,,Bank-Assurance,Independent,Gauteng,Active
+SA-0000188,ADV000188,Thandi Adams,,Direct,Coastal Network,North West,Y
+SA-0000189,ADV000189,Zanele Dlamini,,BlueStar,Independent,Northern Cape,1
+SA-0000215,ADV000215,Grace Khumalo,,Bank-Assurance,Coastal Network,Gauteng,N
+SA-0000216,ADV000216,David Smith,,Bank Assurance,Metro Group,KwaZulu-Natal,1
+SA-0000219,ADV000219,Lwazi Zulu,,BLUESTAR,Metro Group,Free State,Y
+SA-0000220,ADV000220,Samuel Sithole,,Bank-Assurance,Coastal Network,KwaZulu-Natal,Y
+SA-0000259,ADV000259,Neo Smith,,BlueStar,Metro Group,Northern Cape,Y
+SA-0000265,ADV000265,Tshepo Dlamini,,BlueStar,Coastal Network,Northern Cape,Active
+SA-0000298,ADV000298,David Mokoena,,BLUESTAR,North Network,Mpumalanga,Active
+SA-0000303,ADV000303,Grace Mokoena,,Blue Star,Coastal Network,North West,N
+SA-0000321,ADV000321,Thandi Mahlangu,,Bank-Assurance,,KwaZulu-Natal,Active
+SA-0000387,ADV000387,Amina Sithole,,BlueStar,Coastal Network,KwaZulu-Natal,Yes
+SA-0000422,ADV000422,Musa Nkosi,,,North Network,Gauteng,Yes
+SA-0000441,ADV000441,Portia Mokoena,,BLUESTAR,Metro Group,North West,1
+SA-0000483,ADV000483,Kabelo Mahlangu,,Direct,,Mpumalanga,Active
+SA-0000487,ADV000487,Peter Botha,,Bank-Assurance,North Network,Western Cape,Active
+SA-0000512,ADV000512,Neo Adams,,Blue Star,Metro Group,Eastern Cape,N
+SA-0000525,ADV000525,Keitumetse van der Merwe,,Bank Assurance,,North West,1
+SA-0000550,ADV000550,Keitumetse Smith,,Bank-Assurance,,Mpumalanga,1
+SA-0000574,ADV000574,Brian Khumalo,,BlueStar,Coastal Network,Eastern Cape,Yes
+SA-0000578,ADV000578,Grace Dlamini,,BLUESTAR,North Network,Free State,N
+SA-0000592,ADV000592,Lerato Mabena,,,Coastal Network,Northern Cape,1
