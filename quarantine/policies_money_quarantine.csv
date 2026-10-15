@@ -1,0 +1,352 @@
+source_row_id,policy_id,client_id,advisor_id,product_code,product_line,inception_date,end_date,annual_premium,sum_assured,policy_status,currency,source_system,advisor_id_flag,client_id_flag,quarantine_reason
+SP-000000011,POL000000011,CL00001504,ADV000352,LIFE,Life Cover,2025-09-07,2030-09-06,38852.18,,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000000164,POL000000164,CL00009702,ADV000506,RA,Retirement Annuity,2017-02-02,2037-01-28,36445.96,,Cancelled,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000000260,POL000000260,CL00006178,ADV000317,LIFE,Life Cover,2019-10-01,2039-01-05,,3498652.09,Lapsed,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000000329,POL000000329,CL00002086,ADV000321,LIFE,Life Cover,2019-03-09,2024-07-03,44788.34,,Active,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000000351,POL000000351,CL00006283,ADV000533,LIFE,Life Cover,2017-02-21,2027-02-19,484.27,,Active,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000000406,POL000000406,CL00002484,ADV000318,WEALTH,Wealth Investment,2023-06-27,2024-06-26,10215.07,,Unknown,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000000414,POL000000414,CL00001384,ADV000599,RA,Retirement Annuity,2018-08-29,2018-06-15,38490.8,,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000000519,POL000000519,CL00002085,ADV000400,WEALTH,Wealth Investment,2023-08-26,2024-08-25,,10067434.45,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000000598,POL000000598,CL00011952,ADV000330,LIFE,Life Cover,2021-05-27,2022-05-27,,1045199.68,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000000611,POL000000611,CL00007386,ADV000583,RA,Retirement Annuity,2025-08-21,2045-08-16,1559.39,,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000000695,POL000000695,CL00005848,ADV000434,WEALTH,Wealth Investment,2019-05-22,2039-05-17,,9858514.16,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000000746,POL000000746,CL00000598,ADV000427,LIFE,Life Cover,2023-05-14,2024-05-13,,183720.55,Unknown,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000000765,POL000000765,CL00000749,ADV000224,RA,Retirement Annuity,2019-06-09,2024-07-06,2435.32,,Cancelled,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000000825,POL000000825,CL00005419,ADV000234,RA,Retirement Annuity,2019-09-19,2024-09-17,,8522007.5,Unknown,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000000944,POL000000944,CL00003267,ADV000550,RA,Retirement Annuity,2024-05-06,2025-05-06,,10825277.05,Unknown,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000001027,POL000001027,CL00004895,ADV000174,WEALTH,Wealth Investment,2025-12-15,2030-12-14,5242.38,,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000001045,POL000001045,CL00008925,ADV000594,RA,Retirement Annuity,2019-10-11,2020-10-10,6053.11,,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000001150,POL000001150,CL00004885,ADV000513,WEALTH,Wealth Investment,2018-06-23,2038-06-18,,10983418.02,Active,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000001426,POL000001426,CL00009165,ADV000256,WEALTH,Wealth Investment,2020-10-31,2030-10-29,,7569873.01,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000001433,POL000001433,CL00009801,ADV000183,WEALTH,Wealth Investment,2025-06-22,2035-06-20,,2304997.32,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000001640,POL000001640,CL00002290,ADV000301,RA,Retirement Annuity,2018-10-11,2038-11-05,,7078072.47,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000001655,POL000001655,CL00006413,ADV000122,WEALTH,Wealth Investment,2017-11-18,2022-11-17,,4691651.45,Active,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000001671,POL000001671,CL00008807,ADV000071,LIFE,Life Cover,2022-06-16,2042-06-11,,7338646.31,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000001696,POL000001696,CL00004222,ADV000561,LIFE,Life Cover,2019-02-09,2024-08-02,,9324972.68,Lapsed,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000001892,POL000001892,CL00003957,ADV000454,WEALTH,Wealth Investment,2021-10-15,2026-10-14,,5716340.82,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000002027,POL000002027,CL00001731,ADV000561,RA,Retirement Annuity,2020-08-28,2021-08-28,26420.56,,Unknown,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000002141,POL000002141,CL00009472,ADV000293,WEALTH,Wealth Investment,2017-02-02,2037-01-28,16690.02,,Cancelled,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000002158,POL000002158,CL00006187,ADV000069,WEALTH,Wealth Investment,2020-07-29,2030-07-27,,8046906.0,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000002164,POL000002164,CL00009183,ADV000116,LIFE,Life Cover,2018-03-13,2038-03-08,,6701813.75,Active,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000002180,POL000002180,MISSING-362089,ADV000360,WEALTH,Wealth Investment,2024-07-01,2025-06-01,12857.05,,In Force,ZAR,LegacyLifeB,False,True,missing_annual_premium_or_sum_assured
+SP-000002194,POL000002194,CL00003661,ADV000216,LIFE,Life Cover,2024-07-27,2044-07-22,,7068064.05,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000002203,POL000002203,CL00000994,ADV000508,RA,Retirement Annuity,2017-03-27,2037-03-22,,5653294.79,Lapsed,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000002210,POL000002210,CL00008893,ADV000146,WEALTH,Wealth Investment,2024-01-05,2029-03-01,16709.81,,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000002395,POL000002395,CL00004687,ADV000008,RA,Retirement Annuity,2025-10-07,2035-10-05,,2948466.75,Unknown,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000002675,POL000002675,CL00005775,ADV000517,RA,Retirement Annuity,2025-02-24,2026-02-24,,10554421.71,Active,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000002794,POL000002794,CL00006755,ADV000417,RA,Retirement Annuity,2024-12-16,2034-12-14,,10746874.19,Unknown,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000002812,POL000002812,CL00011666,ADV000325,LIFE,Life Cover,2024-01-28,2044-01-23,,10453388.23,Active,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000002813,POL000002813,CL00003321,ADV000337,LIFE,Life Cover,2019-09-12,2029-06-12,47259.7,,Unknown,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000002966,POL000002966,CL00005165,ADV000377,LIFE,Life Cover,2018-05-22,2023-05-21,,9310083.51,Unknown,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000002988,POL000002988,CL00008557,ADV000314,RA,Retirement Annuity,2021-08-26,2022-08-26,12960.78,,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000003003,POL000003003,CL00008775,ADV000443,RA,Retirement Annuity,2022-05-09,2042-04-05,,10277103.2,Unknown,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000003037,POL000003037,CL00006696,ADV000442,WEALTH,Wealth Investment,2018-05-03,2019-03-05,,6630240.96,Active,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000003061,POL000003061,MISSING-423055,ADV000458,WEALTH,Wealth Investment,2021-07-05,2026-05-06,,11316676.5,Active,ZAR,LegacyLifeA,False,True,missing_annual_premium_or_sum_assured
+SP-000003109,POL000003109,CL00006508,ADV000547,LIFE,Life Cover,2024-04-02,2025-02-03,13826.24,,Active,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000003113,POL000003113,CL00003740,ADV000311,LIFE,Life Cover,2025-08-05,2026-08-05,,11542226.4,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000003288,POL000003288,CL00004252,ADV000072,WEALTH,Wealth Investment,2023-03-11,2043-06-03,25728.89,,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000003547,POL000003547,CL00007718,ADV000486,WEALTH,Wealth Investment,2018-01-15,2028-01-13,,11406244.05,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000003579,POL000003579,CL00002960,ADV000367,WEALTH,Wealth Investment,2023-10-13,2043-10-08,,4654778.98,Unknown,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000003623,POL000003623,CL00010900,ADV000538,RA,Retirement Annuity,2018-01-16,2028-01-14,,10907269.84,Lapsed,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000003641,POL000003641,CL00008094,ADV000425,RA,Retirement Annuity,2025-09-30,2035-09-28,38951.29,,Active,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000003664,POL000003664,CL00010597,ADV000395,RA,Retirement Annuity,2021-12-16,2022-12-16,,2238385.83,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000003684,POL000003684,CL00001598,ADV000089,WEALTH,Wealth Investment,2021-06-28,2026-06-27,24448.24,,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000003696,POL000003696,CL00004963,ADV000052,WEALTH,Wealth Investment,2019-02-08,2029-02-05,,11220494.03,Lapsed,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000003699,POL000003699,CL00009490,ADV000340,RA,Retirement Annuity,2017-12-08,2022-07-12,,11825758.21,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000004042,POL000004042,CL00005516,ADV000427,WEALTH,Wealth Investment,2021-07-08,2022-08-07,12121.24,,Active,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000004062,POL000004062,CL00002567,ADV000362,LIFE,Life Cover,2021-05-15,2022-05-15,,6859455.52,Lapsed,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000004129,POL000004129,CL00002342,ADV000009,RA,Retirement Annuity,2019-02-20,2020-02-20,,1975185.7,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000004250,POL000004250,CL00008961,ADV000041,LIFE,Life Cover,2021-03-19,2022-03-19,9311.92,,Unknown,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000004443,POL000004443,CL00000993,ADV000425,WEALTH,Wealth Investment,2018-09-19,2038-09-14,7305.73,,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000004471,POL000004471,CL00002715,ADV000596,WEALTH,Wealth Investment,2024-09-08,2044-03-09,,10785512.59,Lapsed,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000004691,POL000004691,CL00000185,ADV000585,LIFE,Life Cover,2022-04-16,2042-04-11,,4289577.27,Cancelled,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000004716,POL000004716,CL00009268,ADV000222,LIFE,Life Cover,2020-07-29,2021-07-29,,1347866.15,Lapsed,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000004729,POL000004729,CL00008609,ADV000004,WEALTH,Wealth Investment,2021-05-19,2022-05-19,26662.47,,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000004872,POL000004872,CL00007718,ADV000445,RA,Retirement Annuity,2022-05-16,2027-05-15,,8565266.87,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000004914,POL000004914,CL00010715,ADV000205,RA,Retirement Annuity,2021-03-13,2041-03-08,,5881644.34,Unknown,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000004931,POL000004931,CL00009952,ADV000185,RA,Retirement Annuity,2025-05-15,2045-10-05,,632843.52,Active,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000004955,POL000004955,CL00002060,ADV000331,RA,Retirement Annuity,2024-07-19,2044-07-14,21310.8,,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000004994,POL000004994,CL00011650,ADV000025,LIFE,Life Cover,2025-04-20,2045-04-15,,3859972.27,Unknown,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000005118,POL000005118,CL00003634,ADV000369,WEALTH,Wealth Investment,2022-11-19,2023-11-19,33806.33,,Lapsed,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000005145,POL000005145,CL00002439,ADV000340,WEALTH,Wealth Investment,2023-04-27,2023-01-02,33452.96,,Active,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000005161,POL000005161,CL00009183,ADV000543,WEALTH,Wealth Investment,2022-02-08,2027-02-07,,893637.59,Lapsed,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000005237,POL000005237,CL00005492,ADV000315,RA,Retirement Annuity,2024-04-29,2034-04-27,33921.61,,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000005251,POL000005251,CL00006299,ADV000469,WEALTH,Wealth Investment,2017-01-15,2037-01-10,14619.81,,Active,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000005382,POL000005382,CL00006504,ADV000037,RA,Retirement Annuity,2021-01-03,2040-12-29,,5375044.71,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000005412,POL000005412,CL00008443,ADV000114,RA,Retirement Annuity,2019-10-08,2039-10-03,33396.37,,Lapsed,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000005509,POL000005509,CL00009857,ADV000027,WEALTH,Wealth Investment,2017-02-05,2027-03-02,,6092430.71,Cancelled,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000005605,POL000005605,CL00001028,ADV000204,LIFE,Life Cover,2017-06-09,2018-06-09,,7800787.78,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000005654,POL000005654,CL00009134,ADV000168,WEALTH,Wealth Investment,2019-12-05,2020-12-04,,4047965.91,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000005738,POL000005738,CL00003258,ADV000513,LIFE,Life Cover,2021-02-27,2031-02-25,,10232767.96,Unknown,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000005849,POL000005849,CL00003940,ADV000226,RA,Retirement Annuity,2018-12-26,2028-12-23,,9586480.82,Unknown,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000005854,POL000005854,CL00006898,ADV000464,LIFE,Life Cover,2023-08-11,2043-08-06,,6003660.93,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000005908,POL000005908,CL00001608,ADV000440,WEALTH,Wealth Investment,2017-05-12,2022-05-11,33682.98,,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000005980,POL000005980,CL00000803,ADV000234,LIFE,Life Cover,2022-09-22,2023-09-22,,1912466.77,Lapsed,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000006082,POL000006082,CL00001823,ADV000032,WEALTH,Wealth Investment,2022-11-30,2032-11-27,,5415164.07,Lapsed,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000006099,POL000006099,CL00010444,MISSING-293337,RA,Retirement Annuity,2024-09-12,2034-09-10,20752.53,,Unknown,ZAR,WealthCore,True,False,missing_annual_premium_or_sum_assured
+SP-000006124,POL000006124,CL00009978,ADV000123,RA,Retirement Annuity,2018-08-03,2019-08-03,,10159641.81,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000006164,POL000006164,CL00007262,ADV000256,WEALTH,Wealth Investment,2023-08-16,2043-08-11,4806.24,,Active,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000006176,POL000006176,CL00008402,ADV000575,RA,Retirement Annuity,2019-01-03,2024-01-02,,1830582.83,Cancelled,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000006617,POL000006617,CL00007816,ADV000064,WEALTH,Wealth Investment,2019-05-07,2024-07-03,,2778641.55,Lapsed,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000006716,POL000006716,CL00002457,ADV000575,RA,Retirement Annuity,2020-06-16,2021-06-16,,4569093.15,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000006838,POL000006838,CL00002497,ADV000575,LIFE,Life Cover,2023-08-02,2043-07-28,,3038290.41,Lapsed,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000006910,POL000006910,CL00001972,ADV000573,WEALTH,Wealth Investment,2018-03-16,2023-03-15,18168.8,,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000006917,POL000006917,CL00004038,ADV000093,LIFE,Life Cover,2025-12-13,2045-08-12,10946.03,,Cancelled,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000006927,POL000006927,MISSING-601425,ADV000187,WEALTH,Wealth Investment,2020-02-15,2021-02-14,,2968252.79,In Force,ZAR,WealthCore,False,True,missing_annual_premium_or_sum_assured
+SP-000006961,POL000006961,CL00009695,ADV000123,WEALTH,Wealth Investment,2018-03-14,2019-03-14,45137.95,,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000007031,POL000007031,CL00001150,ADV000116,WEALTH,Wealth Investment,2019-03-12,2020-03-11,,1514796.42,Active,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000007042,POL000007042,CL00005278,ADV000391,LIFE,Life Cover,2021-09-26,2022-09-26,34708.79,,Cancelled,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000007077,POL000007077,CL00003456,ADV000251,LIFE,Life Cover,2025-05-30,2035-05-28,,8178111.51,Lapsed,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000007119,POL000007119,CL00005843,ADV000198,LIFE,Life Cover,2025-03-29,2026-03-29,,11288957.86,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000007335,POL000007335,CL00003838,ADV000197,WEALTH,Wealth Investment,2024-05-16,2029-05-15,26341.57,,Active,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000007365,POL000007365,CL00000653,ADV000067,LIFE,Life Cover,2018-07-06,2019-07-06,41034.78,,Lapsed,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000007499,POL000007499,CL00006784,ADV000511,WEALTH,Wealth Investment,2021-07-13,2031-07-11,41647.79,,Lapsed,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000007508,POL000007508,CL00007508,MISSING-514732,WEALTH,Wealth Investment,2018-12-30,2038-12-25,26896.49,,In Force,ZAR,LegacyLifeA,True,False,missing_annual_premium_or_sum_assured
+SP-000007720,POL000007720,CL00011747,ADV000462,LIFE,Life Cover,2025-04-18,2026-04-18,,4390155.91,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000007812,POL000007812,CL00009631,ADV000534,RA,Retirement Annuity,2020-08-28,2040-08-23,5085.45,,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000007826,POL000007826,CL00003327,ADV000379,WEALTH,Wealth Investment,2024-09-14,2044-09-09,40914.81,,Active,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000007919,POL000007919,CL00002720,ADV000214,LIFE,Life Cover,2021-05-01,2031-04-29,30985.81,,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000008081,POL000008081,CL00005310,ADV000073,RA,Retirement Annuity,2025-09-21,2045-09-16,37936.64,,Cancelled,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000008125,POL000008125,CL00002583,ADV000494,RA,Retirement Annuity,2020-12-22,2025-12-21,1962.65,,Lapsed,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000008237,POL000008237,CL00005037,ADV000357,LIFE,Life Cover,2024-11-10,2025-10-11,,592390.21,Unknown,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000008289,POL000008289,CL00004128,ADV000405,RA,Retirement Annuity,2018-12-02,2023-12-01,,1590259.43,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000008300,POL000008300,CL00010351,MISSING-722940,LIFE,Life Cover,2022-10-27,2027-10-26,,10295518.6,In Force,ZAR,LegacyLifeB,True,False,missing_annual_premium_or_sum_assured
+SP-000008385,POL000008385,CL00004339,ADV000468,WEALTH,Wealth Investment,2021-12-31,2041-12-26,12824.72,,Unknown,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000008399,POL000008399,CL00003319,ADV000474,RA,Retirement Annuity,2020-09-16,2030-09-14,7105.03,,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000008475,POL000008475,CL00010247,ADV000518,LIFE,Life Cover,2017-08-14,2027-08-12,,6228925.42,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000008489,POL000008489,CL00009356,ADV000402,RA,Retirement Annuity,2025-08-14,2035-08-12,45798.68,,Lapsed,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000008541,POL000008541,CL00004728,ADV000410,WEALTH,Wealth Investment,2019-02-10,2029-02-07,39342.64,,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000008577,POL000008577,CL00004435,ADV000101,WEALTH,Wealth Investment,2021-12-01,2026-11-30,,7699617.32,Lapsed,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000008586,POL000008586,CL00004412,ADV000515,RA,Retirement Annuity,2023-11-02,2028-10-31,25902.19,,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000008595,POL000008595,CL00009380,ADV000326,RA,Retirement Annuity,2025-09-19,2030-09-18,,4429716.89,Cancelled,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000008665,POL000008665,CL00000488,ADV000504,WEALTH,Wealth Investment,2017-11-05,2037-10-31,2148.78,,Unknown,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000008713,POL000008713,CL00007303,ADV000521,RA,Retirement Annuity,2020-05-31,2021-05-31,8620.99,,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000008769,POL000008769,CL00009666,ADV000262,RA,Retirement Annuity,2019-01-17,2024-01-16,,5474984.28,Unknown,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000008830,POL000008830,CL00007553,ADV000392,WEALTH,Wealth Investment,2024-02-01,2025-01-31,,10120676.13,Lapsed,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000009007,POL000009007,CL00000665,ADV000319,RA,Retirement Annuity,2022-02-01,2041-12-28,22503.12,,Cancelled,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000009033,POL000009033,CL00005468,ADV000327,LIFE,Life Cover,2019-08-10,2024-10-06,,7952906.86,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000009054,POL000009054,CL00006110,ADV000323,LIFE,Life Cover,2019-06-14,2029-06-11,,354781.92,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000009169,POL000009169,CL00008929,ADV000450,RA,Retirement Annuity,2020-12-10,2030-10-10,30454.55,,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000009201,POL000009201,CL00009365,ADV000264,LIFE,Life Cover,2025-01-01,2044-12-27,25388.89,,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000009254,POL000009254,CL00004704,ADV000540,LIFE,Life Cover,2021-11-01,2026-10-31,,3151025.28,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000009272,POL000009272,CL00005556,ADV000297,WEALTH,Wealth Investment,2020-06-03,2030-06-01,,11060398.91,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000009348,POL000009348,CL00008633,ADV000405,RA,Retirement Annuity,2024-09-18,2034-09-16,20603.46,,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000009399,POL000009399,CL00002534,ADV000304,WEALTH,Wealth Investment,2020-10-03,2040-03-05,18207.86,,Unknown,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000009402,POL000009402,CL00003611,ADV000199,WEALTH,Wealth Investment,2023-07-05,2043-06-30,,2758027.69,Active,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000009422,POL000009422,CL00009882,ADV000276,WEALTH,Wealth Investment,2021-12-17,2041-12-12,,7768088.66,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000009698,POL000009698,CL00011510,ADV000105,RA,Retirement Annuity,2022-03-29,2032-03-26,46926.45,,Unknown,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000010149,POL000010149,CL00011156,ADV000388,LIFE,Life Cover,2022-01-26,2027-01-25,3621.77,,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000010221,POL000010221,CL00001083,ADV000281,RA,Retirement Annuity,2025-10-27,2045-10-22,,9616664.02,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000010383,POL000010383,CL00000631,ADV000459,WEALTH,Wealth Investment,2022-06-22,2023-06-22,,3699719.03,Lapsed,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000010403,POL000010403,CL00004161,ADV000530,WEALTH,Wealth Investment,2021-07-09,2022-07-09,,6581631.12,Cancelled,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000010414,POL000010414,MISSING-656670,ADV000074,RA,Retirement Annuity,2017-02-25,2037-02-20,,11214442.29,Active,ZAR,LegacyLifeB,False,True,missing_annual_premium_or_sum_assured
+SP-000010529,POL000010529,CL00003274,ADV000503,WEALTH,Wealth Investment,2023-11-10,2028-11-08,,732129.85,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000010733,POL000010733,CL00002889,ADV000487,RA,Retirement Annuity,2020-05-04,2021-05-04,,4107286.53,Unknown,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000010766,POL000010766,CL00010661,ADV000318,RA,Retirement Annuity,2025-04-01,2035-03-30,33827.53,,Cancelled,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000010826,POL000010826,CL00008137,ADV000269,LIFE,Life Cover,2021-04-19,2031-04-17,24877.68,,Lapsed,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000010847,POL000010847,MISSING-247977,ADV000524,RA,Retirement Annuity,2017-03-09,2018-03-09,39946.64,,Unknown,ZAR,LegacyLifeB,False,True,missing_annual_premium_or_sum_assured
+SP-000010859,POL000010859,MISSING-342359,ADV000587,LIFE,Life Cover,2022-01-01,2026-12-31,44996.35,,Active,ZAR,WealthCore,False,True,missing_annual_premium_or_sum_assured
+SP-000010929,POL000010929,CL00011350,ADV000388,WEALTH,Wealth Investment,2017-02-07,2022-02-06,,8561673.91,Lapsed,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000011094,POL000011094,CL00011362,ADV000132,WEALTH,Wealth Investment,2023-06-12,2033-06-09,,2435512.4,Active,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000011116,POL000011116,CL00010766,MISSING-593168,LIFE,Life Cover,2023-08-18,2028-08-16,,8997094.79,Cancelled,ZAR,WealthCore,True,False,missing_annual_premium_or_sum_assured
+SP-000011133,POL000011133,CL00005191,ADV000313,LIFE,Life Cover,2018-01-09,2028-01-07,,10409726.03,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000011265,POL000011265,CL00007640,ADV000184,RA,Retirement Annuity,2021-02-04,2041-03-28,,5317261.62,Lapsed,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000011469,POL000011469,CL00000659,ADV000175,WEALTH,Wealth Investment,2021-04-15,2041-04-10,,5539897.18,Lapsed,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000011539,POL000011539,CL00008133,ADV000004,WEALTH,Wealth Investment,2022-07-10,2027-07-09,,9118946.11,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000011595,POL000011595,CL00007716,ADV000598,RA,Retirement Annuity,2022-04-22,2023-04-22,,11271244.1,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000011625,POL000011625,CL00005075,ADV000110,LIFE,Life Cover,2024-08-02,2025-08-02,,5621758.53,Cancelled,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000011649,POL000011649,CL00001045,ADV000443,LIFE,Life Cover,2023-10-18,2043-10-13,13353.13,,Unknown,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000011920,POL000011920,CL00005518,ADV000332,RA,Retirement Annuity,2025-09-08,2026-09-08,,913862.72,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000011950,POL000011950,CL00000045,ADV000163,LIFE,Life Cover,2020-07-09,2030-07-07,,5743871.93,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000011970,POL000011970,CL00003740,ADV000533,RA,Retirement Annuity,2023-02-06,2043-05-28,42041.34,,Active,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000012025,POL000012025,CL00002853,ADV000573,RA,Retirement Annuity,2019-03-12,2029-03-09,28466.88,,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000012053,POL000012053,CL00011642,ADV000442,LIFE,Life Cover,2022-09-24,2032-09-21,,4843692.2,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000012065,POL000012065,CL00007139,ADV000506,WEALTH,Wealth Investment,2019-07-25,2024-07-23,,1593944.51,Unknown,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000012118,POL000012118,CL00005986,ADV000554,WEALTH,Wealth Investment,2019-08-20,2020-08-19,,9240666.75,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000012143,POL000012143,CL00005060,ADV000291,RA,Retirement Annuity,2021-08-02,2026-02-07,,8820906.73,Cancelled,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000012424,POL000012424,CL00000515,ADV000195,RA,Retirement Annuity,2023-07-11,2033-07-08,,2575089.84,Active,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000012763,POL000012763,CL00007977,ADV000492,WEALTH,Wealth Investment,2017-12-17,2022-12-16,,876705.71,Active,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000012766,POL000012766,CL00008318,ADV000289,RA,Retirement Annuity,2024-08-21,2044-08-16,39227.7,,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000012791,POL000012791,CL00000894,ADV000296,RA,Retirement Annuity,2020-06-24,2021-06-24,33423.31,,Lapsed,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000012851,POL000012851,CL00003428,ADV000343,RA,Retirement Annuity,2023-05-07,2043-05-02,,2759785.88,Lapsed,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000012873,POL000012873,CL00002797,ADV000391,LIFE,Life Cover,2024-04-12,2029-11-04,,7711298.2,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000012939,POL000012939,CL00011350,ADV000422,WEALTH,Wealth Investment,2019-02-27,2039-02-22,34616.25,,Unknown,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000012989,POL000012989,CL00000723,ADV000169,WEALTH,Wealth Investment,2021-07-15,2031-07-13,,1487077.41,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000013076,POL000013076,CL00005839,ADV000308,WEALTH,Wealth Investment,2020-02-08,2030-07-31,,4843807.47,Cancelled,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000013127,POL000013127,CL00005798,ADV000311,WEALTH,Wealth Investment,2019-05-30,2029-05-27,328.78,,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000013171,POL000013171,CL00011849,ADV000370,WEALTH,Wealth Investment,2024-02-18,2034-02-15,,9571998.79,Unknown,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000013186,POL000013186,CL00009178,ADV000057,RA,Retirement Annuity,2020-08-26,2025-08-25,,2287852.4,Unknown,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000013323,POL000013323,CL00001049,ADV000254,RA,Retirement Annuity,2025-04-08,2026-04-08,26787.87,,Unknown,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000013330,POL000013330,CL00011136,ADV000563,WEALTH,Wealth Investment,2024-05-27,2044-05-22,,9298689.99,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000013336,POL000013336,CL00009988,ADV000288,WEALTH,Wealth Investment,2022-02-07,2032-06-29,,7547353.3,Cancelled,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000013483,POL000013483,CL00010204,ADV000225,RA,Retirement Annuity,2020-06-01,2040-05-27,,6045042.58,Active,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000013635,POL000013635,CL00007522,ADV000179,WEALTH,Wealth Investment,2020-07-08,2021-07-08,,11885146.98,Lapsed,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000013710,POL000013710,CL00007316,ADV000581,RA,Retirement Annuity,2020-12-26,2025-12-25,,1377629.77,Active,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000013781,POL000013781,CL00010429,ADV000575,LIFE,Life Cover,2023-06-30,2043-06-25,,11980448.6,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000013810,POL000013810,CL00005604,ADV000198,LIFE,Life Cover,2023-06-09,2043-06-04,40022.96,,Unknown,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000013811,POL000013811,CL00005767,ADV000001,LIFE,Life Cover,2021-09-21,2022-09-21,31371.34,,Active,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000013827,POL000013827,CL00008080,ADV000033,WEALTH,Wealth Investment,2017-04-14,2027-04-12,9875.22,,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000013863,POL000013863,CL00009361,MISSING-415850,LIFE,Life Cover,2020-11-14,2025-11-13,17589.62,,In Force,ZAR,LegacyLifeB,True,False,missing_annual_premium_or_sum_assured
+SP-000013900,POL000013900,CL00004383,ADV000078,WEALTH,Wealth Investment,2021-07-24,2031-07-22,,4541363.98,Active,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000014363,POL000014363,CL00009810,ADV000467,WEALTH,Wealth Investment,2022-04-18,2027-04-17,30016.32,,Cancelled,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000014375,POL000014375,CL00009282,ADV000040,RA,Retirement Annuity,2024-12-21,2025-12-21,,4981552.17,Active,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000014386,POL000014386,CL00003452,ADV000581,LIFE,Life Cover,2023-01-25,2033-01-22,,8598218.0,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000014424,POL000014424,CL00006779,ADV000250,LIFE,Life Cover,2020-10-04,2021-10-04,,1519614.46,Unknown,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000014453,POL000014453,CL00003408,ADV000417,RA,Retirement Annuity,2017-06-21,2027-06-19,,208694.46,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000014564,POL000014564,CL00010558,ADV000181,RA,Retirement Annuity,2025-03-20,2030-03-19,20103.06,,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000014584,POL000014584,CL00005419,ADV000091,LIFE,Life Cover,2019-08-28,2019-05-11,,6304536.36,Lapsed,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000014595,POL000014595,CL00003056,ADV000492,WEALTH,Wealth Investment,2024-10-05,2044-09-30,11963.79,,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000014641,POL000014641,CL00002562,ADV000059,RA,Retirement Annuity,2017-11-09,2018-11-09,,5909726.02,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000014647,POL000014647,CL00011024,ADV000148,RA,Retirement Annuity,2021-08-25,2031-08-23,45456.2,,Lapsed,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000014848,POL000014848,CL00005934,ADV000189,LIFE,Life Cover,2020-02-21,2030-02-18,2506.82,,Unknown,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000014864,POL000014864,CL00004623,ADV000116,WEALTH,Wealth Investment,2018-11-14,2019-11-14,,5518324.17,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000014868,POL000014868,CL00001047,ADV000233,RA,Retirement Annuity,2024-06-03,2034-06-01,,6155015.72,Lapsed,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000014908,POL000014908,CL00007944,ADV000426,LIFE,Life Cover,2024-05-20,2044-05-15,16287.99,,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000014920,POL000014920,CL00004150,ADV000367,RA,Retirement Annuity,2023-06-07,2028-06-05,,,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000014983,POL000014983,CL00011807,ADV000539,WEALTH,Wealth Investment,2022-04-26,2032-04-23,45265.88,,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000015123,POL000015123,CL00011768,ADV000523,WEALTH,Wealth Investment,2023-05-17,2024-05-16,15719.2,,Active,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000015257,POL000015257,CL00005994,ADV000145,RA,Retirement Annuity,2017-03-27,2027-03-25,,1452436.66,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000015273,POL000015273,CL00010595,ADV000263,RA,Retirement Annuity,2017-03-31,2037-03-26,,10943665.96,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000015378,POL000015378,CL00005062,ADV000177,WEALTH,Wealth Investment,2021-09-30,2026-09-29,,2564316.82,Lapsed,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000015470,POL000015470,CL00010751,ADV000482,RA,Retirement Annuity,2023-07-08,2028-07-06,37562.23,,Active,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000015502,POL000015502,CL00010810,ADV000441,LIFE,Life Cover,2023-06-11,2033-06-08,,6721594.99,Active,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000015504,POL000015504,CL00010630,ADV000289,RA,Retirement Annuity,2021-06-25,2031-06-23,10124.19,,Unknown,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000015506,POL000015506,CL00005492,ADV000047,LIFE,Life Cover,2022-01-18,2023-01-18,45567.41,,Unknown,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000015520,POL000015520,CL00010093,ADV000576,WEALTH,Wealth Investment,2017-08-20,2018-08-20,,10904858.13,Lapsed,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000015842,POL000015842,CL00000232,ADV000319,RA,Retirement Annuity,2024-11-16,2034-11-14,41744.08,,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000015846,POL000015846,CL00009134,ADV000314,LIFE,Life Cover,2021-01-06,2022-06-01,23088.76,,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000016035,POL000016035,CL00006797,ADV000282,WEALTH,Wealth Investment,2022-03-24,2027-03-23,,3467038.1,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000016043,POL000016043,CL00011772,ADV000556,LIFE,Life Cover,2021-06-13,2026-06-12,,6940740.02,Unknown,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000016061,POL000016061,CL00007120,ADV000014,RA,Retirement Annuity,2022-10-14,2042-10-09,,7167581.98,Lapsed,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000016114,POL000016114,CL00007600,ADV000174,LIFE,Life Cover,2025-07-19,2045-07-14,19469.1,,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000016118,POL000016118,CL00003842,ADV000307,RA,Retirement Annuity,2020-07-13,2025-07-12,23558.36,,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000016395,POL000016395,CL00001550,ADV000500,LIFE,Life Cover,2022-06-10,2023-06-10,,8474482.44,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000016461,POL000016461,CL00002629,ADV000289,WEALTH,Wealth Investment,2019-05-07,2029-05-04,,4950304.49,Unknown,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000016462,POL000016462,CL00003815,ADV000385,WEALTH,Wealth Investment,2018-11-29,2028-11-26,,3857197.93,Unknown,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000016489,POL000016489,CL00004117,ADV000385,WEALTH,Wealth Investment,2020-01-24,2040-01-19,3906.96,,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000016533,POL000016533,CL00003472,ADV000086,LIFE,Life Cover,2021-04-26,2022-04-26,,6582585.06,Lapsed,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000016816,POL000016816,CL00011998,ADV000326,WEALTH,Wealth Investment,2022-03-09,2042-03-04,37279.4,,Unknown,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000016850,POL000016850,CL00002336,ADV000226,LIFE,Life Cover,2019-11-22,2039-11-17,,,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000016954,POL000016954,CL00004353,ADV000477,RA,Retirement Annuity,2017-08-10,2018-10-08,,4276332.47,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000016966,POL000016966,CL00003440,ADV000397,LIFE,Life Cover,2021-07-23,2031-07-21,,10912538.21,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000017118,POL000017118,CL00001879,ADV000328,WEALTH,Wealth Investment,2025-08-04,2035-04-06,34698.79,,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000017164,POL000017164,CL00003793,ADV000058,LIFE,Life Cover,2020-07-23,2040-07-18,27001.24,,Active,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000017211,POL000017211,CL00011519,ADV000036,WEALTH,Wealth Investment,2018-08-30,2038-08-25,,8550611.28,Cancelled,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000017226,POL000017226,CL00005024,ADV000563,RA,Retirement Annuity,2025-11-30,2026-11-30,,10615665.45,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000017229,POL000017229,CL00010323,ADV000413,WEALTH,Wealth Investment,2019-06-01,2024-05-30,,7729410.24,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000017292,POL000017292,CL00002428,ADV000218,WEALTH,Wealth Investment,2020-08-24,2021-08-24,,6546753.61,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000017306,POL000017306,CL00006273,ADV000022,LIFE,Life Cover,2017-06-08,2037-06-03,,1696625.87,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000017534,POL000017534,CL00003655,ADV000294,WEALTH,Wealth Investment,2019-09-21,2024-09-19,,3789552.58,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000017569,POL000017569,CL00010849,ADV000240,RA,Retirement Annuity,2021-10-13,2026-10-12,23358.96,,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000017718,POL000017718,CL00002590,ADV000417,RA,Retirement Annuity,2020-04-01,2030-03-30,10466.66,,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000017756,POL000017756,CL00004749,ADV000591,RA,Retirement Annuity,2025-04-27,2035-04-25,,2276701.52,Cancelled,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000017814,POL000017814,CL00004246,ADV000090,LIFE,Life Cover,2018-07-21,2019-07-21,,3744836.27,Cancelled,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000018010,POL000018010,CL00010717,ADV000215,LIFE,Life Cover,2019-03-28,2039-03-23,30126.17,,Unknown,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000018102,POL000018102,CL00010782,ADV000015,LIFE,Life Cover,2025-02-16,2045-11-02,,2730479.16,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000018166,POL000018166,CL00001950,ADV000311,WEALTH,Wealth Investment,2024-07-23,2029-07-22,,9559647.95,Active,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000018213,POL000018213,CL00009749,ADV000416,LIFE,Life Cover,2025-12-06,2035-12-04,46011.86,,Unknown,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000018239,POL000018239,CL00009215,ADV000329,LIFE,Life Cover,2020-01-01,2020-12-31,27396.09,,Active,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000018306,POL000018306,CL00005210,ADV000051,LIFE,Life Cover,2018-06-13,2019-06-13,,4551700.13,Lapsed,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000018311,POL000018311,CL00010292,ADV000403,LIFE,Life Cover,2020-11-18,2025-11-17,15180.58,,Unknown,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000018477,POL000018477,CL00004638,MISSING-678292,RA,Retirement Annuity,2025-03-20,2030-03-19,,3711395.05,In Force,ZAR,LegacyLifeA,True,False,missing_annual_premium_or_sum_assured
+SP-000018564,POL000018564,CL00009973,ADV000590,WEALTH,Wealth Investment,2018-12-31,2019-12-31,,9024989.97,Active,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000018567,POL000018567,CL00005564,ADV000364,RA,Retirement Annuity,2018-03-08,2038-03-03,30226.61,,Cancelled,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000018570,POL000018570,CL00010339,ADV000426,RA,Retirement Annuity,2024-05-06,2025-05-06,,6561992.25,Active,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000018613,POL000018613,CL00004913,ADV000596,WEALTH,Wealth Investment,2017-05-21,2022-05-20,,6453324.81,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000018627,POL000018627,CL00011464,ADV000063,LIFE,Life Cover,2023-09-24,2024-09-23,44549.27,,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000018641,POL000018641,CL00011930,ADV000250,WEALTH,Wealth Investment,2017-10-18,2037-10-13,,9507342.27,Active,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000018881,POL000018881,CL00011251,ADV000074,WEALTH,Wealth Investment,2024-06-29,2044-06-24,29229.9,,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000019000,POL000019000,CL00009477,ADV000528,RA,Retirement Annuity,2017-11-09,2037-11-04,,8570750.46,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000019145,POL000019145,CL00002417,ADV000387,WEALTH,Wealth Investment,2024-09-14,2029-09-13,,6358325.19,Cancelled,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000019210,POL000019210,CL00009124,ADV000219,RA,Retirement Annuity,2017-11-10,2018-10-11,,2943686.79,Active,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000019213,POL000019213,CL00003700,ADV000223,WEALTH,Wealth Investment,2025-05-12,2035-10-05,,9108713.11,Lapsed,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000019296,POL000019296,MISSING-160855,MISSING-990050,LIFE,Life Cover,2017-05-03,2018-03-05,,6186689.43,Lapsed,ZAR,WealthCore,True,True,missing_annual_premium_or_sum_assured
+SP-000019523,POL000019523,CL00006285,ADV000442,WEALTH,Wealth Investment,2018-08-02,2028-07-30,,4148701.76,Lapsed,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000019557,POL000019557,CL00011342,ADV000034,RA,Retirement Annuity,2019-01-16,2029-01-13,,552091.99,Lapsed,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000019704,POL000019704,CL00010444,ADV000037,LIFE,Life Cover,2024-06-14,2024-04-16,41563.42,,Cancelled,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000019826,POL000019826,CL00011274,ADV000451,WEALTH,Wealth Investment,2018-07-24,2019-07-24,20395.91,,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000019855,POL000019855,CL00006993,ADV000224,WEALTH,Wealth Investment,2018-06-19,2023-06-18,12116.91,,Lapsed,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000020012,POL000020012,CL00009830,ADV000274,RA,Retirement Annuity,2022-07-14,2027-07-13,39025.23,,Unknown,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000020026,POL000020026,CL00006779,ADV000565,LIFE,Life Cover,2018-02-05,2023-02-04,,9762055.81,Cancelled,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000020040,POL000020040,CL00003770,ADV000240,RA,Retirement Annuity,2018-06-11,2019-11-06,24249.13,,Active,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000020062,POL000020062,CL00003764,ADV000294,RA,Retirement Annuity,2021-11-11,2041-11-06,,515004.6,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000020130,POL000020130,CL00004345,ADV000578,LIFE,Life Cover,2018-08-30,2019-08-30,,8182306.8,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000020158,POL000020158,CL00000147,ADV000502,LIFE,Life Cover,2018-05-17,2038-05-12,14674.4,,Cancelled,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000020354,POL000020354,CL00002044,ADV000050,LIFE,Life Cover,2017-03-21,2037-03-16,15974.15,,Active,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000020401,POL000020401,CL00003900,ADV000247,RA,Retirement Annuity,2023-04-06,2043-01-04,11522.87,,Active,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000020665,POL000020665,CL00005217,ADV000485,WEALTH,Wealth Investment,2023-12-04,2043-11-29,,589339.14,Cancelled,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000020882,POL000020882,MISSING-470345,ADV000510,WEALTH,Wealth Investment,2021-12-05,2031-12-03,,1873127.1,Lapsed,ZAR,WealthCore,False,True,missing_annual_premium_or_sum_assured
+SP-000021068,POL000021068,CL00006558,ADV000434,LIFE,Life Cover,2020-09-21,2025-09-20,,9146890.15,Cancelled,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000021080,POL000021080,CL00009754,ADV000513,WEALTH,Wealth Investment,2025-06-19,2026-06-19,,7471817.43,Unknown,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000021205,POL000021205,CL00011548,MISSING-964972,LIFE,Life Cover,2025-05-16,2030-05-15,40790.96,,Cancelled,ZAR,WealthCore,True,False,missing_annual_premium_or_sum_assured
+SP-000021266,POL000021266,CL00007011,ADV000215,WEALTH,Wealth Investment,2019-07-12,2020-07-11,,6378992.48,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000021288,POL000021288,MISSING-134871,ADV000381,WEALTH,Wealth Investment,2022-09-18,2032-09-15,41533.02,,Unknown,ZAR,WealthCore,False,True,missing_annual_premium_or_sum_assured
+SP-000021398,POL000021398,CL00003959,ADV000375,RA,Retirement Annuity,2018-01-06,2038-01-01,,10568510.73,Cancelled,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000021482,POL000021482,CL00002776,ADV000545,WEALTH,Wealth Investment,2025-12-29,2025-08-19,,3026654.44,Lapsed,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000021620,POL000021620,CL00009461,ADV000499,LIFE,Life Cover,2019-07-01,2029-01-04,,7942250.12,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000021674,POL000021674,CL00002130,ADV000551,RA,Retirement Annuity,2020-10-02,2021-09-02,,6637652.18,Lapsed,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000021786,POL000021786,CL00001575,ADV000297,LIFE,Life Cover,2023-04-02,2024-04-01,,3096337.41,Unknown,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000021836,POL000021836,CL00006703,ADV000453,WEALTH,Wealth Investment,2020-01-24,2030-01-21,,10619631.11,Cancelled,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000021971,POL000021971,CL00000385,ADV000512,LIFE,Life Cover,2020-08-16,2021-08-16,31694.97,,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000021998,POL000021998,CL00003310,ADV000011,RA,Retirement Annuity,2024-12-01,2024-08-19,46332.85,,Active,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000022075,POL000022075,CL00001038,ADV000559,WEALTH,Wealth Investment,2018-11-30,2038-11-25,33017.97,,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000022097,POL000022097,CL00008360,ADV000261,RA,Retirement Annuity,2017-07-17,2018-07-17,,11601834.09,Active,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000022139,POL000022139,CL00007244,ADV000146,WEALTH,Wealth Investment,2025-05-31,2045-05-26,,4566229.67,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000022231,POL000022231,MISSING-915776,ADV000321,RA,Retirement Annuity,2021-08-30,2026-08-29,,729174.82,In Force,ZAR,LegacyLifeA,False,True,missing_annual_premium_or_sum_assured
+SP-000022280,POL000022280,CL00009427,ADV000376,RA,Retirement Annuity,2021-02-03,2041-01-29,18023.28,,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000022353,POL000022353,CL00000521,ADV000336,LIFE,Life Cover,2024-06-19,2044-06-14,,2588422.31,Lapsed,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000022365,POL000022365,CL00002538,ADV000594,WEALTH,Wealth Investment,2022-07-13,2023-07-13,24199.7,,Active,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000022378,POL000022378,CL00000690,ADV000120,RA,Retirement Annuity,2024-12-08,2025-12-08,,1500468.27,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000022558,POL000022558,CL00004433,ADV000188,RA,Retirement Annuity,2023-10-02,2028-02-09,,11924264.22,Lapsed,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000022587,POL000022587,CL00003735,ADV000399,WEALTH,Wealth Investment,2018-08-24,2038-08-19,,8649729.15,Unknown,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000022683,POL000022683,CL00000991,ADV000525,WEALTH,Wealth Investment,2017-09-14,2022-09-13,32857.45,,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000022689,POL000022689,CL00001144,ADV000529,LIFE,Life Cover,2025-04-11,2045-04-06,4623.28,,Lapsed,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000022736,POL000022736,CL00005844,ADV000349,WEALTH,Wealth Investment,2021-08-08,2041-03-08,20819.18,,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000022928,POL000022928,CL00006367,ADV000038,LIFE,Life Cover,2019-12-13,2020-12-12,16233.87,,Cancelled,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000023011,POL000023011,MISSING-826551,ADV000293,LIFE,Life Cover,2023-09-30,2024-09-29,11003.6,,Cancelled,ZAR,LegacyLifeA,False,True,missing_annual_premium_or_sum_assured
+SP-000023049,POL000023049,CL00001918,ADV000127,RA,Retirement Annuity,2022-03-02,2027-03-01,11303.94,,Unknown,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000023100,POL000023100,CL00007242,ADV000426,LIFE,Life Cover,2019-07-27,2020-07-26,,2967242.5,In Force,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000023154,POL000023154,CL00005648,ADV000214,RA,Retirement Annuity,2023-10-14,2028-10-12,1878.5,,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000023186,POL000023186,CL00003320,ADV000179,LIFE,Life Cover,2019-01-17,2020-01-17,,1283635.55,Active,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000023197,POL000023197,CL00009647,ADV000132,WEALTH,Wealth Investment,2019-07-07,2020-06-07,44917.24,,Cancelled,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000023358,POL000023358,CL00006361,ADV000550,WEALTH,Wealth Investment,2022-01-31,2042-01-26,,7646580.27,Unknown,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000023397,POL000023397,CL00003768,ADV000539,WEALTH,Wealth Investment,2020-05-26,2030-05-24,,4242502.42,Cancelled,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000023468,POL000023468,CL00006991,ADV000104,RA,Retirement Annuity,2022-09-14,2042-09-09,,10235169.26,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000023477,POL000023477,CL00011571,ADV000345,WEALTH,Wealth Investment,2019-09-12,2029-09-09,5466.37,,Active,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000023572,POL000023572,CL00004765,ADV000132,WEALTH,Wealth Investment,2017-12-07,2037-12-02,15357.55,,Cancelled,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000023624,POL000023624,CL00009787,ADV000527,RA,Retirement Annuity,2021-06-19,2026-06-18,,10503818.58,Active,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000023630,POL000023630,CL00006589,ADV000054,LIFE,Life Cover,2022-10-21,2042-10-16,17715.18,,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000023672,POL000023672,CL00007204,ADV000361,WEALTH,Wealth Investment,2018-09-02,2019-02-09,28618.07,,Unknown,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000023868,POL000023868,CL00011941,ADV000429,LIFE,Life Cover,2021-03-22,2026-03-21,,4117578.56,Unknown,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000023927,POL000023927,CL00010335,ADV000110,WEALTH,Wealth Investment,2020-09-16,2021-09-16,,2591636.61,Active,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000024157,POL000024157,CL00000281,ADV000582,RA,Retirement Annuity,2019-08-05,2020-05-07,16316.88,,Unknown,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000024162,POL000024162,CL00011259,ADV000460,WEALTH,Wealth Investment,2021-10-31,2031-10-29,37026.64,,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000024181,POL000024181,CL00003987,ADV000395,LIFE,Life Cover,2021-01-11,2026-01-10,,10788673.15,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000024310,POL000024310,CL00008257,ADV000078,WEALTH,Wealth Investment,2024-10-22,2044-10-17,,4420176.59,Unknown,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000024320,POL000024320,CL00011067,ADV000433,LIFE,Life Cover,2019-11-29,2039-11-24,,5830410.41,Lapsed,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000024359,POL000024359,CL00011528,ADV000104,LIFE,Life Cover,2021-11-30,2022-11-30,13583.04,,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000024374,POL000024374,CL00006509,ADV000224,RA,Retirement Annuity,2019-03-03,2020-03-02,,11991069.16,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000024473,POL000024473,CL00001811,ADV000086,WEALTH,Wealth Investment,2020-06-19,2021-06-19,43134.21,,Unknown,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000024513,POL000024513,CL00010425,ADV000059,LIFE,Life Cover,2022-09-11,2027-10-09,,7159511.57,Active,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000024529,POL000024529,CL00001867,ADV000208,RA,Retirement Annuity,2021-11-12,2026-11-11,,5418949.78,Lapsed,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000024578,POL000024578,CL00011393,ADV000239,RA,Retirement Annuity,2018-07-15,2038-10-07,1084.59,,Unknown,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000024643,POL000024643,MISSING-641100,ADV000166,LIFE,Life Cover,2017-03-25,2018-03-25,,3268828.23,Unknown,ZAR,WealthCore,False,True,missing_annual_premium_or_sum_assured
+SP-000024656,POL000024656,CL00011253,ADV000010,RA,Retirement Annuity,2021-01-29,2041-01-24,,4950249.63,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000024662,POL000024662,CL00006189,ADV000402,RA,Retirement Annuity,2019-12-14,2039-12-09,16515.37,,Lapsed,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000024708,POL000024708,CL00002308,ADV000564,RA,Retirement Annuity,2024-06-01,2034-01-03,,7256742.45,Active,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000024750,POL000024750,CL00002736,ADV000192,LIFE,Life Cover,2018-03-07,2023-03-06,,2150079.12,Unknown,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000024779,POL000024779,CL00004585,ADV000172,LIFE,Life Cover,2019-08-26,2039-08-21,,5088340.55,Active,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000024806,POL000024806,CL00000404,ADV000486,WEALTH,Wealth Investment,2025-03-14,2045-03-09,,11815333.99,Unknown,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000024860,POL000024860,CL00000770,ADV000446,RA,Retirement Annuity,2022-09-21,2023-09-21,,2450241.88,Cancelled,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000025021,POL000025021,CL00002108,ADV000060,RA,Retirement Annuity,2021-03-03,2022-03-03,27535.17,,Unknown,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000025042,POL000025042,CL00000352,ADV000586,RA,Retirement Annuity,2022-02-06,2027-06-01,7932.37,,Active,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000025093,POL000025093,CL00004911,ADV000438,WEALTH,Wealth Investment,2025-10-03,2026-10-03,40122.32,,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000025447,POL000025447,CL00002630,ADV000561,WEALTH,Wealth Investment,2017-12-17,2037-12-12,,5689893.28,Lapsed,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000025459,POL000025459,CL00008877,MISSING-208341,WEALTH,Wealth Investment,2023-05-26,2043-05-21,42747.64,,In Force,ZAR,WealthCore,True,False,missing_annual_premium_or_sum_assured
+SP-000025535,POL000025535,CL00003419,ADV000475,RA,Retirement Annuity,2023-11-15,2043-10-11,,5611352.15,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000025536,POL000025536,CL00002933,ADV000262,RA,Retirement Annuity,2022-03-30,2042-03-25,,5288394.34,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000025553,POL000025553,CL00006588,ADV000463,LIFE,Life Cover,2022-11-05,2027-11-04,,6252681.11,Unknown,ZAR,WealthCore,False,False,missing_annual_premium_or_sum_assured
+SP-000025617,POL000025617,CL00002941,ADV000323,LIFE,Life Cover,2024-01-29,2025-01-28,,6145845.02,In Force,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000025891,POL000025891,CL00009585,ADV000385,RA,Retirement Annuity,2017-06-29,2037-06-24,,4085469.36,Lapsed,ZAR,LegacyLifeA,False,False,missing_annual_premium_or_sum_assured
+SP-000025944,POL000025944,CL00005981,ADV000586,RA,Retirement Annuity,2024-09-17,2044-09-12,,10166103.24,Active,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
+SP-000025973,POL000025973,CL00007048,ADV000069,LIFE,Life Cover,2018-02-24,2028-02-22,40654.81,,In Force,ZAR,LegacyLifeB,False,False,missing_annual_premium_or_sum_assured
