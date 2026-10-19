@@ -1,0 +1,16 @@
+field,source_label,standard_label
+claim_type,Death,Death
+claim_type,Death Benefit,Death
+claim_type,Disability,Disability
+claim_type,disability,Disability
+claim_type,Critical Illness,Critical Illness
+claim_status,Paid,Paid
+claim_status,paid,Paid
+claim_status,Settled,Settled
+claim_status,Assessed,Assessed
+claim_status,Open,Open
+claim_status,Rejected,Rejected
+claim_status,Unknown,Unknown
+client_id,(blank),(blank)
+client_id,N/A,(blank)
+client_id,NULL,(blank)

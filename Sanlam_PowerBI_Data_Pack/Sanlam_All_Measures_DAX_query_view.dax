@@ -1,0 +1,223 @@
+// ============================================================
+// Sanlam Project 1 - ALL MEASURES (paste into DAX query view)
+// ------------------------------------------------------------
+// HOW TO USE
+// 1. Load the 10 CSVs, build dim_date, dim_source_table, Component,
+//    Outlier Switch (New table) and the Stress Multiplier what-if
+//    parameter, and create the relationships (see README_BUILD.txt).
+// 2. Home > Enter data > create an empty table called  _Measures
+// 3. View > DAX query view. Paste everything below the line, click Run
+//    to check for errors, then click "Update model with changes".
+//    Every measure is added to the _Measures table.
+// 4. Format each measure (percent / currency) in Measure tools.
+// ============================================================
+
+DEFINE
+    MEASURE _Measures[As Of Date] =
+        DATE ( 2025, 12, 31 )
+
+    MEASURE _Measures[Window End] =
+        MIN ( MAX ( dim_date[Date] ), [As Of Date] )
+
+    MEASURE _Measures[Window Start] =
+        EDATE ( [Window End], -12 ) + 1
+
+    MEASURE _Measures[Paid Claims 12M] =
+        VAR _start = [Window Start]
+        VAR _end   = [Window End]
+        RETURN
+        CALCULATE (
+            SUM ( fact_claims[paid_amount] ),
+            fact_claims[claim_status] = "Paid",
+            FILTER ( ALL ( dim_date ), dim_date[Date] >= _start && dim_date[Date] <= _end )
+        )
+
+    MEASURE _Measures[Paid Claim Count 12M] =
+        VAR _start = [Window Start]
+        VAR _end   = [Window End]
+        RETURN
+        CALCULATE (
+            COUNTROWS ( fact_claims ),
+            fact_claims[claim_status] = "Paid",
+            FILTER ( ALL ( dim_date ), dim_date[Date] >= _start && dim_date[Date] <= _end )
+        )
+
+    MEASURE _Measures[Earned Premium 12M] =
+        VAR _start = [Window Start]
+        VAR _end   = [Window End]
+        RETURN
+        SUMX (
+            dim_policy,
+            VAR _from = MAX ( dim_policy[inception_date], _start )
+            VAR _to   = MIN ( dim_policy[end_date], _end )
+            VAR _days = MAX ( 0, INT ( _to - _from ) + 1 )
+            RETURN dim_policy[annual_premium] * MIN ( _days, 365 ) / 365
+        )
+
+    MEASURE _Measures[Loss Ratio] =
+        DIVIDE ( [Paid Claims 12M], [Earned Premium 12M] )
+
+    MEASURE _Measures[Policies In Force] =
+        VAR _d = [Window End]
+        RETURN
+        CALCULATE (
+            COUNTROWS ( dim_policy ),
+            dim_policy[policy_status] = "In Force",
+            dim_policy[inception_date] <= _d,
+            dim_policy[end_date] >= _d
+        )
+
+    MEASURE _Measures[Claim Frequency] =
+        DIVIDE ( [Paid Claim Count 12M], [Policies In Force] )
+
+    MEASURE _Measures[Claim Severity] =
+        DIVIDE ( [Paid Claims 12M], [Paid Claim Count 12M] )
+
+    MEASURE _Measures[Loss Ratio Excl Outliers] =
+        DIVIDE (
+            CALCULATE ( [Paid Claims 12M], fact_claims[is_outlier] = FALSE () ),
+            [Earned Premium 12M]
+        )
+
+    MEASURE _Measures[Loss Ratio (Selected)] =
+        IF (
+            SELECTEDVALUE ( 'Outlier Switch'[Option], "Include" ) = "Exclude",
+            [Loss Ratio Excl Outliers],
+            [Loss Ratio]
+        )
+
+    MEASURE _Measures[Savings AUM] =
+        SUM ( fact_two_pot[savings_component] )
+
+    MEASURE _Measures[Retirement AUM] =
+        SUM ( fact_two_pot[retirement_component] )
+
+    MEASURE _Measures[Vested AUM] =
+        SUM ( fact_two_pot[vested_component] )
+
+    MEASURE _Measures[Total AUM] =
+        [Savings AUM] + [Retirement AUM] + [Vested AUM]
+
+    MEASURE _Measures[Savings Share %] =
+        DIVIDE ( [Savings AUM], [Total AUM] )
+
+    MEASURE _Measures[Savings Withdrawals] =
+        SUM ( fact_two_pot[withdrawal_amount] )
+
+    MEASURE _Measures[Component AUM] =
+        SWITCH (
+            SELECTEDVALUE ( Component[Name] ),
+            "Savings",    [Savings AUM],
+            "Retirement", [Retirement AUM],
+            "Vested",     [Vested AUM]
+        )
+
+    MEASURE _Measures[Velocity Numerator] =
+        CALCULATE (
+            SUM ( fact_two_pot[withdrawal_amount] ),
+            fact_two_pot[savings_component] > 0,
+            fact_two_pot[withdrawal_amount] >= 0
+        )
+
+    MEASURE _Measures[Velocity Denominator] =
+        CALCULATE (
+            SUM ( fact_two_pot[savings_component] ),
+            fact_two_pot[savings_component] > 0,
+            fact_two_pot[withdrawal_amount] >= 0
+        )
+
+    MEASURE _Measures[Withdrawal Velocity] =
+        DIVIDE ( [Velocity Numerator], [Velocity Denominator] )
+
+    MEASURE _Measures[Stressed Velocity] =
+        [Stress Multiplier Value] * [Withdrawal Velocity]
+
+    MEASURE _Measures[Stressed Outflow] =
+        [Stress Multiplier Value] * [Withdrawal Velocity] * [Savings AUM]
+
+    MEASURE _Measures[Stressed Outflow % of AUM] =
+        DIVIDE ( [Stressed Outflow], [Total AUM] )
+
+    MEASURE _Measures[Gross Premium] =
+        CALCULATE (
+            SUM ( fact_payments[amount_zar] ),
+            fact_payments[payment_status] = "Successful",
+            fact_payments[transaction_type] IN { "Premium", "Debit Order", "EFT" }
+        )
+
+    MEASURE _Measures[Reversals and Refunds] =
+        CALCULATE (
+            SUM ( fact_payments[amount_zar] ),
+            fact_payments[payment_status] = "Successful",
+            fact_payments[transaction_type] IN { "Reversal", "Refund" }
+        )
+
+    MEASURE _Measures[Net Premium] =
+        [Gross Premium] + [Reversals and Refunds]
+
+    MEASURE _Measures[Reversal Rate] =
+        DIVIDE ( -[Reversals and Refunds], [Gross Premium] )
+
+    MEASURE _Measures[Net Commission] =
+        CALCULATE (
+            SUM ( fact_payments[amount_zar] ),
+            fact_payments[payment_status] = "Successful",
+            fact_payments[transaction_type] IN { "Commission", "Commission Reversal" }
+        )
+
+    MEASURE _Measures[Commission % of Net Premium] =
+        DIVIDE ( [Net Commission], [Net Premium] )
+
+    MEASURE _Measures[Persistency 12M] =
+        VAR _cutoff = EDATE ( [As Of Date], -12 )
+        VAR _cohort =
+            FILTER (
+                dim_policy,
+                dim_policy[inception_date] <= _cutoff
+                    && dim_policy[policy_status] <> "Unknown"
+            )
+        VAR _kept = FILTER ( _cohort, dim_policy[policy_status] = "In Force" )
+        RETURN
+            DIVIDE ( COUNTROWS ( _kept ), COUNTROWS ( _cohort ) )
+
+    MEASURE _Measures[Rows Ingested] =
+        SUM ( dq_row_counts[rows_read] )
+
+    MEASURE _Measures[Rows Loaded] =
+        SUM ( dq_row_counts[rows_loaded] )
+
+    MEASURE _Measures[Rows Quarantined] =
+        SUM ( dq_row_counts[rows_quarantined] )
+
+    MEASURE _Measures[Rows Dropped] =
+        SUM ( dq_row_counts[rows_dropped] )
+
+    MEASURE _Measures[Reconciliation Difference] =
+        [Rows Ingested] - [Rows Loaded] - [Rows Quarantined] - [Rows Dropped]
+
+    MEASURE _Measures[Flagged Rows] =
+        DISTINCTCOUNT ( dq_anomaly_log[source_row_key] )
+
+    MEASURE _Measures[Flags by Code] =
+        COUNTROWS ( dq_anomaly_log )
+
+    MEASURE _Measures[Anomaly Rate] =
+        DIVIDE ( [Flagged Rows], [Rows Ingested] )
+
+    MEASURE _Measures[Auto Corrected Rows] =
+        CALCULATE (
+            DISTINCTCOUNT ( dq_anomaly_log[source_row_key] ),
+            dq_anomaly_log[action] = "Auto-corrected"
+        )
+
+    MEASURE _Measures[Cleaning Efficiency] =
+        DIVIDE ( [Auto Corrected Rows], [Flagged Rows] )
+
+    MEASURE _Measures[Quarantine Resolution Rate] =
+        DIVIDE (
+            CALCULATE ( COUNTROWS ( dq_quarantine ), dq_quarantine[resolved_flag] = TRUE () ),
+            COUNTROWS ( dq_quarantine )
+        )
+
+EVALUATE
+ROW ( "Loss Ratio", [Loss Ratio], "Paid Claims 12M", [Paid Claims 12M], "Net Premium", [Net Premium] )

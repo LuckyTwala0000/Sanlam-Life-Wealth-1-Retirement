@@ -1,0 +1,2 @@
+source_file,rows_read,rows_clean,rows_quarantined,rows_dropped,check_passes,quarantine_rate_pct
+sanlam_raw_claims.csv,12000,11058,942,0,True,7.8

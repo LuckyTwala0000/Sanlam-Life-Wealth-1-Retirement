@@ -1,0 +1,24 @@
+// Create each with Modeling > New table (one at a time)
+
+dim_date =
+ADDCOLUMNS (
+    CALENDAR ( DATE ( 2016, 1, 1 ), DATE ( 2026, 12, 31 ) ),
+    "Year", YEAR ( [Date] ),
+    "Month No", MONTH ( [Date] ),
+    "Month", FORMAT ( [Date], "MMM yy" ),
+    "Month End", EOMONTH ( [Date], 0 ),
+    "Year-Month", FORMAT ( [Date], "YYYY-MM" )
+)
+
+dim_source_table =
+DATATABLE (
+    "table_name", STRING,
+    { { "advisors" }, { "clients" }, { "policies" },
+      { "claims" }, { "payments" }, { "two_pot_savings" } }
+)
+
+Component =
+DATATABLE ( "Name", STRING, { { "Savings" }, { "Retirement" }, { "Vested" } } )
+
+Outlier Switch =
+DATATABLE ( "Option", STRING, { { "Include" }, { "Exclude" } } )
