@@ -1,6 +1,6 @@
 # Sanlam Life, Wealth & Retirement: Data Modernization
 
-> **Project 1 | BRD-SAN-2026-V4 (Sanlam Data Modernization)**
+> **Project 1 | (Sanlam Data Modernization)**
 > From messy files to a trusted warehouse, and from the warehouse to decisions.
 
 **Planning board:** [Trello: Final Project (Sanlam Life, Wealth & Retirement)](https://trello.com/b/esJOc8H0/final-projectsanlam-life-wealth-retirement)
@@ -28,7 +28,6 @@
 15. [Working Agreements](#15-working-agreements)
 16. [Risks and Mitigations](#16-risks-and-mitigations)
 17. [Definition of Done](#17-definition-of-done)
-18. [Marking Weights](#18-marking-weights)
 
 ---
 
@@ -295,32 +294,18 @@ Rates are shown alongside counts because source volumes differ.
 - Headline numbers differ between tools without explanation.
 - The pipeline gives different results when run twice.
 
-## 14. Proposed Repository Structure
+## 14. Repository Structure
 
 ```
-Sanlam-Life-Wealth-Retirement/
-├── README.md
-├── .gitignore
-├── .env.example            # placeholders only, never real credentials
-├── requirements.txt
-├── data/
-│   └── raw/                # raw files, never edited
-├── pipeline/               # pandas scripts or notebooks (profile, clean, load)
-│   ├── config/
-│   ├── profile/
-│   ├── rules/              # one named function per anomaly rule
-│   └── load/
-├── sql/                    # numbered, re-runnable scripts (01_schemas, 02_tables, ...)
-├── outputs/                # profile exports, reconciliation results, screenshots
-├── powerbi/                # .pbix and model documentation
-└── docs/
-    ├── anomaly_catalogue.md
-    ├── rule_cards/
-    ├── definition_cards/
-    ├── star_schema_and_grain.md
-    ├── verification_sheet.xlsx
-    └── quality_report.md
+Sanlam-Life-Wealth-1-Retirement/
+├── raw_data/       # raw source files exactly as received, never edited
+├── Notebook/       # pandas notebooks: profiling, cleaning, audit and crosswalk tables
+├── clean_data/     # cleaned tables produced by the notebooks
+├── quarantine/     # records held back, each with a reason code
+└── README.md
 ```
+
+Folders for the SQL scripts, Power BI file and documentation will be added as those sprints start.
 
 ## 15. Working Agreements
 
@@ -356,19 +341,6 @@ A task is done when:
 - Its evidence (counts, screenshots, result files) is saved in the repo.
 - It has been reviewed by another team member.
 - Its Trello card is moved to Done.
-
-## 18. Marking Weights
-
-Suggested weights; the instructor confirms the final weighting.
-
-| Area | Weight |
-| --- | --- |
-| Week 1: pandas profiling, cleaning, audit and quarantine | 25% |
-| Week 2: PostgreSQL model, loading and reconciliation | 30% |
-| Week 3: Power BI model and report pages | 25% |
-| Verification sheet and quality report | 10% |
-| Oral defence | 10% |
-| **Total** | **100%** |
 
 ---
 
