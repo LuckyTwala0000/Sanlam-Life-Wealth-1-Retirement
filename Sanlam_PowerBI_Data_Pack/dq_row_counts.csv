@@ -1,7 +1,0 @@
-load_batch_id,table_name,rows_read,rows_loaded,rows_quarantined,rows_dropped,rows_in_model
-BATCH-001,advisors,600,600,0,0,600
-BATCH-001,clients,12000,11851,0,149,11851
-BATCH-001,policies,26000,23841,2159,0,23841
-BATCH-001,claims,12000,7785,4110,105,7195
-BATCH-001,payments,60000,42718,16576,706,39172
-BATCH-001,two_pot_savings,18000,17111,889,0,17111
