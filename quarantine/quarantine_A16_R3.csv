@@ -1,0 +1,179 @@
+source_row_id,transaction_ref,policy_id,transaction_date_new,client_id,amount,transaction_type,currency,payment_method,payment_status,source_system,A04_flag,A16_R1,A16_R3
+SPAY-0000000167,TX-S-0000000167,POL000001340,2024-03-17,CL00006658,not recorded,EFT,ZAR,EFT,Successful,LegacyLedger,False,False,True
+SPAY-0000001653,TX-S-0000001653,POL000005156,2022-03-17,CL00003186,not recorded,Premium,USD,Card,Successful,PaymentsHub,False,False,True
+SPAY-0000001706,TX-S-0000001706,POL000006594,2024-07-21,CL00009575,not recorded,Commission,ZAR,Card,Failed,LegacyLedger,False,False,True
+SPAY-0000001710,TX-S-0000001710,POL000014414,2021-02-18,CL00006105,not recorded,Commission,ZAR,Unknown,Reversed,BankFeed,False,False,True
+SPAY-0000001777,TX-S-0000001777,POL000007482,2024-11-17,CL00007258,not recorded,Commission,ZAR,Cash,Successful,PaymentsHub,False,False,True
+SPAY-0000002190,TX-S-0000002190,POL000015674,2021-02-08,CL00008090,not recorded,Commission Reversal,ZAR,Cash,Pending,PaymentsHub,False,False,True
+SPAY-0000002327,TX-S-0000002327,POL000014207,2023-05-08,CL00003959,not recorded,Premium,ZAR,EFT,Failed,PaymentsHub,False,False,True
+SPAY-0000002963,TX-S-0000002963,POL000011092,2020-02-24,CL00001482,not recorded,Debit Order,ZAR,Card,Failed,BankFeed,False,False,True
+SPAY-0000003231,TX-S-0000003231,POL000016356,2025-07-21,CL00000833,not recorded,Reversal,ZAR,Card,Successful,PaymentsHub,False,False,True
+SPAY-0000003698,TX-S-0000003698,POL000020793,2021-01-09,CL00006654,not recorded,Commission Reversal,ZAR,Cash,Pending,PaymentsHub,False,False,True
+SPAY-0000003728,TX-S-0000003728,POL000000398,2025-08-16,CL00008421,not recorded,Refund,ZAR,Cash,Reversed,PaymentsHub,False,False,True
+SPAY-0000003840,TX-S-0000003840,POL000000522,2024-03-18,CL00009687,not recorded,Premium,ZAR,Card,Successful,PaymentsHub,False,False,True
+SPAY-0000004034,TX-S-0000004034,POL000004910,2022-05-16,CL00004113,not recorded,Debit Order,ZAR,Debit Order,Failed,PaymentsHub,False,False,True
+SPAY-0000004059,TX-S-0000004059,POL000020505,2022-02-27,CL00003446,not recorded,Premium,ZAR,EFT,Successful,PaymentsHub,False,False,True
+SPAY-0000004362,TX-S-0000004362,POL000006152,2021-01-22,CL00000579,not recorded,EFT,USD,Unknown,Successful,PaymentsHub,False,False,True
+SPAY-0000004380,TX-S-0000004380,POL000008194,2020-01-20,CL00008547,not recorded,Commission,ZAR,Debit Order,Successful,LegacyLedger,False,False,True
+SPAY-0000004470,TX-S-0000004470,POL000006873,2025-06-09,CL00009230,not recorded,Debit Order,ZAR,Debit Order,Successful,BankFeed,False,False,True
+SPAY-0000004726,TX-S-0000004726,POL000009192,2024-06-22,CL00009725,not recorded,Premium,ZAR,Unknown,Reversed,PaymentsHub,False,False,True
+SPAY-0000004796,TX-S-0000004796,POL000020174,2023-01-24,CL00000746,not recorded,Debit Order,USD,Card,Pending,PaymentsHub,False,False,True
+SPAY-0000004833,TX-S-0000004833,POL000007424,2020-03-24,CL00007336,not recorded,Commission,ZAR,Unknown,Reversed,PaymentsHub,False,False,True
+SPAY-0000006141,TX-S-0000006141,POL000011781,2025-02-09,CL00010086,not recorded,Commission,ZAR,EFT,Successful,PaymentsHub,False,False,True
+SPAY-0000006179,TX-S-0000006179,POL000021643,2023-04-01,CL00004510,not recorded,EFT,ZAR,Cash,Pending,PaymentsHub,False,False,True
+SPAY-0000007021,TX-S-0000007021,POL000019034,2023-03-08,CL00010123,not recorded,Debit Order,ZAR,Card,Successful,BankFeed,False,False,True
+SPAY-0000007579,TX-S-0000007579,POL000011402,2020-09-25,CL00000500,not recorded,Commission Reversal,ZAR,Debit Order,Successful,PaymentsHub,False,False,True
+SPAY-0000007801,TX-S-0000007801,POL000019079,2021-02-28,CL00002521,not recorded,Commission,ZAR,Debit Order,Successful,PaymentsHub,False,False,True
+SPAY-0000007991,TX-S-0000007991,POL000022462,2020-08-27,CL00010021,not recorded,Reversal,ZAR,Unknown,Reversed,BankFeed,False,False,True
+SPAY-0000008030,TX-S-0000008030,POL000012196,2023-10-01,CL00008297,not recorded,EFT,ZAR,Debit Order,Pending,LegacyLedger,False,False,True
+SPAY-0000008112,TX-S-0000008112,POL000012661,2020-07-20,CL00003882,not recorded,Commission,ZAR,Debit Order,Successful,PaymentsHub,False,False,True
+SPAY-0000008151,TX-S-0000008151,POL000025718,2021-03-22,CL00002465,not recorded,EFT,ZAR,Cash,Reversed,LegacyLedger,False,False,True
+SPAY-0000008324,TX-S-0000008324,POL000007195,2023-09-10,CL00009077,not recorded,Commission,ZAR,EFT,Successful,PaymentsHub,False,False,True
+SPAY-0000008691,TX-S-0000008691,POL000002448,2025-03-11,CL00011019,not recorded,Commission Reversal,ZAR,Debit Order,Failed,PaymentsHub,False,False,True
+SPAY-0000008868,TX-S-0000008868,POL000021361,2022-01-22,CL00002114,not recorded,Commission,ZAR,EFT,Pending,BankFeed,False,False,True
+SPAY-0000008941,TX-S-0000008941,POL000007591,2023-06-17,CL00006303,not recorded,Premium,ZAR,Card,Failed,LegacyLedger,False,False,True
+SPAY-0000009214,TX-S-0000009214,POL000016590,2025-03-03,CL00009866,not recorded,Debit Order,ZAR,EFT,Reversed,LegacyLedger,False,False,True
+SPAY-0000009369,TX-S-0000009369,POL000010708,2022-09-16,CL00006158,not recorded,EFT,ZAR,Debit Order,Successful,BankFeed,False,False,True
+SPAY-0000010566,TX-S-0000010566,POL000025301,2022-01-19,CL00004242,not recorded,Debit Order,ZAR,Debit Order,Pending,PaymentsHub,False,False,True
+SPAY-0000010816,TX-S-0000010816,POL000000930,2025-09-02,CL00007098,not recorded,Debit Order,ZAR,Card,Failed,PaymentsHub,False,False,True
+SPAY-0000010891,TX-S-0000010891,POL000003261,2025-05-21,CL00002775,not recorded,Commission,ZAR,Card,Successful,PaymentsHub,False,False,True
+SPAY-0000011719,TX-S-0000011719,POL000025344,2024-04-12,CL00000755,not recorded,EFT,ZAR,Debit Order,Successful,PaymentsHub,False,False,True
+SPAY-0000011911,TX-S-0000011911,POL000000037,2022-09-01,CL00004566,not recorded,Commission,ZAR,Debit Order,Successful,BankFeed,False,False,True
+SPAY-0000012661,TX-S-0000012661,POL000000653,2021-03-24,CL00003259,not recorded,Refund,USD,Cash,Failed,PaymentsHub,False,False,True
+SPAY-0000012695,TX-S-0000012695,POL000023769,2024-12-02,CL00006479,not recorded,EFT,ZAR,Debit Order,Successful,PaymentsHub,False,False,True
+SPAY-0000012965,TX-S-0000012965,POL000002633,2021-01-18,CL00008259,not recorded,Commission Reversal,USD,Card,Successful,BankFeed,False,False,True
+SPAY-0000012974,TX-S-0000012974,POL000002273,2020-10-18,CL00010310,not recorded,Reversal,USD,Debit Order,Reversed,PaymentsHub,False,False,True
+SPAY-0000013237,TX-S-0000013237,POL000018630,2022-09-06,CL00003100,not recorded,EFT,ZAR,EFT,Failed,BankFeed,False,False,True
+SPAY-0000013716,TX-S-0000013716,POL000004061,2023-05-05,CL00007979,not recorded,Premium,ZAR,EFT,Pending,BankFeed,False,False,True
+SPAY-0000013751,TX-S-0000013751,POL000003358,2024-08-20,CL00000371,not recorded,Commission,ZAR,EFT,Failed,PaymentsHub,False,False,True
+SPAY-0000013921,TX-S-0000013921,POL000001277,2021-04-24,CL00008920,not recorded,Debit Order,ZAR,Cash,Pending,LegacyLedger,False,False,True
+SPAY-0000013925,TX-S-0000013925,POL000009411,2021-05-02,CL00001220,not recorded,Commission,ZAR,Cash,Successful,LegacyLedger,False,False,True
+SPAY-0000015015,TX-S-0000015015,POL000024833,2020-03-21,CL00009818,not recorded,EFT,ZAR,Card,Pending,LegacyLedger,False,False,True
+SPAY-0000015346,TX-S-0000015346,POL000011830,2024-09-27,CL00002370,not recorded,Premium,ZAR,Debit Order,Successful,BankFeed,False,False,True
+SPAY-0000015417,TX-S-0000015417,POL000023103,2024-05-18,CL00010079,not recorded,Commission,USD,Unknown,Successful,PaymentsHub,False,False,True
+SPAY-0000015719,TX-S-0000015719,POL000006624,2023-11-03,CL00004981,not recorded,Refund,ZAR,Card,Reversed,BankFeed,False,False,True
+SPAY-0000016037,TX-S-0000016037,POL000022622,2023-04-27,CL00010395,not recorded,Premium,ZAR,EFT,Pending,LegacyLedger,False,False,True
+SPAY-0000016064,TX-S-0000016064,POL000005417,2025-12-16,CL00007332,not recorded,Commission,ZAR,EFT,Failed,BankFeed,False,False,True
+SPAY-0000016358,TX-S-0000016358,POL000021590,2021-05-11,CL00004326,not recorded,EFT,USD,Card,Failed,PaymentsHub,False,False,True
+SPAY-0000016616,TX-S-0000016616,POL000009521,2023-08-08,CL00006521,not recorded,Commission,ZAR,Cash,Successful,PaymentsHub,False,False,True
+SPAY-0000016684,TX-S-0000016684,POL000011744,2023-06-09,CL00005930,not recorded,Premium,ZAR,EFT,Failed,LegacyLedger,False,False,True
+SPAY-0000016878,TX-S-0000016878,POL000013822,2024-09-10,CL00009913,not recorded,Premium,ZAR,Unknown,Successful,LegacyLedger,False,False,True
+SPAY-0000016904,TX-S-0000016904,POL000025788,2023-06-06,CL00001157,not recorded,EFT,ZAR,Card,Reversed,LegacyLedger,False,False,True
+SPAY-0000017263,TX-S-0000017263,POL000021338,2020-05-05,CL00000119,not recorded,Commission Reversal,USD,Cash,Successful,BankFeed,False,False,True
+SPAY-0000017281,TX-S-0000017281,POL000008520,2021-05-02,CL00001118,not recorded,Premium,ZAR,Unknown,Reversed,PaymentsHub,False,False,True
+SPAY-0000017445,TX-S-0000017445,POL000010044,2022-07-15,CL00007915,not recorded,Premium,ZAR,Debit Order,Successful,PaymentsHub,False,False,True
+SPAY-0000017504,TX-S-0000017504,POL000003576,2021-02-19,CL00009157,not recorded,Commission Reversal,ZAR,Unknown,Successful,PaymentsHub,False,False,True
+SPAY-0000017528,TX-S-0000017528,POL000023589,2023-08-18,CL00010716,not recorded,Debit Order,ZAR,EFT,Reversed,BankFeed,False,False,True
+SPAY-0000017545,TX-S-0000005640,POL000012007,2020-06-15,CL00007861,not recorded,Commission,ZAR,EFT,Successful,PaymentsHub,False,False,True
+SPAY-0000017778,TX-S-0000017778,POL000024612,2023-02-04,CL00006349,not recorded,Premium,ZAR,Unknown,Successful,LegacyLedger,False,False,True
+SPAY-0000017860,TX-S-0000017860,POL000006524,2022-08-28,CL00007694,not recorded,EFT,ZAR,Cash,Successful,PaymentsHub,False,False,True
+SPAY-0000017926,TX-S-0000017926,POL000025684,2023-08-27,CL00009898,not recorded,Debit Order,ZAR,Card,Successful,BankFeed,False,False,True
+SPAY-0000018660,TX-S-0000018660,POL000024572,2024-06-13,CL00005737,not recorded,Debit Order,ZAR,Debit Order,Successful,LegacyLedger,False,False,True
+SPAY-0000019408,TX-S-0000019408,POL000003282,2023-10-20,CL00009084,not recorded,EFT,ZAR,Debit Order,Failed,PaymentsHub,False,False,True
+SPAY-0000020219,TX-S-0000020219,POL000004565,2021-03-09,CL00002455,not recorded,Debit Order,ZAR,Cash,Failed,PaymentsHub,False,False,True
+SPAY-0000021545,TX-S-0000021545,POL000023766,2022-05-28,CL00008180,not recorded,Refund,USD,Card,Pending,LegacyLedger,False,False,True
+SPAY-0000021969,TX-S-0000021969,POL000009435,2025-10-06,CL00006453,not recorded,Refund,ZAR,Unknown,Successful,LegacyLedger,False,False,True
+SPAY-0000022333,TX-S-0000022333,POL000024203,2020-09-20,MISSING-615788,not recorded,Premium,ZAR,Cash,Successful,LegacyLedger,False,False,True
+SPAY-0000022717,TX-S-0000022717,POL000018063,2024-11-15,CL00011226,not recorded,Commission Reversal,ZAR,EFT,Reversed,LegacyLedger,False,False,True
+SPAY-0000022920,TX-S-0000022920,POL000009490,2024-05-30,CL00003608,not recorded,Commission,ZAR,Card,Failed,PaymentsHub,False,False,True
+SPAY-0000023815,TX-S-0000023815,POL000019102,2021-01-15,CL00006743,not recorded,Commission Reversal,ZAR,Cash,Successful,LegacyLedger,False,False,True
+SPAY-0000023911,TX-S-0000023911,POL000011170,2021-12-12,CL00011600,not recorded,Commission,ZAR,EFT,Pending,LegacyLedger,False,False,True
+SPAY-0000023915,TX-S-0000023915,POL000000736,2022-08-22,CL00000437,not recorded,Premium,ZAR,Card,Successful,PaymentsHub,False,False,True
+SPAY-0000024442,TX-S-0000024442,POL000011240,2025-08-18,CL00007481,not recorded,Debit Order,USD,Cash,Pending,BankFeed,False,False,True
+SPAY-0000024577,TX-S-0000024577,POL000019420,2025-07-20,CL00011713,not recorded,Debit Order,ZAR,Cash,Successful,BankFeed,False,False,True
+SPAY-0000024825,TX-S-0000024825,POL000001026,2023-03-07,CL00000435,not recorded,Debit Order,ZAR,EFT,Successful,PaymentsHub,False,False,True
+SPAY-0000025338,TX-S-0000025338,POL000006879,2023-03-17,CL00000876,not recorded,Debit Order,ZAR,Unknown,Failed,PaymentsHub,False,False,True
+SPAY-0000025831,TX-S-0000025831,POL000023894,2025-05-15,CL00001660,not recorded,Debit Order,ZAR,Cash,Pending,PaymentsHub,False,False,True
+SPAY-0000025888,TX-S-0000025888,POL000019234,2025-05-29,CL00006167,not recorded,Premium,ZAR,Debit Order,Successful,PaymentsHub,False,False,True
+SPAY-0000025967,TX-S-0000025967,POL000003318,2022-04-01,CL00003078,not recorded,Premium,USD,Card,Successful,BankFeed,False,False,True
+SPAY-0000026291,TX-S-0000026291,POL000012393,2020-01-15,CL00010105,not recorded,Premium,USD,Unknown,Successful,LegacyLedger,False,False,True
+SPAY-0000026394,TX-S-0000026394,POL000001561,2021-08-11,CL00009037,not recorded,Commission,USD,Unknown,Pending,BankFeed,False,False,True
+SPAY-0000026764,TX-S-0000026764,POL000003076,2022-12-01,CL00009839,not recorded,Refund,ZAR,Cash,Failed,LegacyLedger,False,False,True
+SPAY-0000026867,TX-S-0000026867,POL000013874,2021-12-23,CL00005387,not recorded,Premium,USD,EFT,Successful,LegacyLedger,False,False,True
+SPAY-0000026885,TX-S-0000026885,POL000018421,2022-11-18,CL00002179,not recorded,Reversal,ZAR,Cash,Successful,LegacyLedger,False,False,True
+SPAY-0000027170,TX-S-0000027170,POL000019942,2022-07-04,CL00000752,not recorded,Commission Reversal,ZAR,EFT,Failed,BankFeed,False,False,True
+SPAY-0000027236,TX-S-0000027236,POL000004820,2021-11-16,CL00004304,not recorded,Premium,ZAR,Card,Reversed,LegacyLedger,False,False,True
+SPAY-0000027253,TX-S-0000027253,POL000011328,2023-07-22,CL00000020,not recorded,Premium,ZAR,Debit Order,Failed,BankFeed,False,False,True
+SPAY-0000027472,TX-S-0000027472,POL000020182,2025-08-10,CL00000779,not recorded,Premium,ZAR,Debit Order,Successful,PaymentsHub,False,False,True
+SPAY-0000028114,TX-S-0000028114,POL000008752,2023-01-14,CL00010831,not recorded,Commission,USD,Debit Order,Successful,BankFeed,False,False,True
+SPAY-0000028168,TX-S-0000028168,POL000022598,2023-07-07,CL00009734,not recorded,Premium,ZAR,Cash,Successful,LegacyLedger,False,False,True
+SPAY-0000028629,TX-S-0000028629,POL000018340,2022-09-29,CL00004025,not recorded,Commission,USD,Debit Order,Failed,LegacyLedger,False,False,True
+SPAY-0000028874,TX-S-0000028874,POL000013749,2024-05-23,CL00007127,not recorded,Commission,USD,Unknown,Successful,BankFeed,False,False,True
+SPAY-0000029391,TX-S-0000029391,POL000009117,2022-10-18,CL00010430,not recorded,Premium,ZAR,Cash,Pending,LegacyLedger,False,False,True
+SPAY-0000029730,TX-S-0000029730,POL000011421,2024-05-20,CL00010764,not recorded,EFT,ZAR,Card,Reversed,LegacyLedger,False,False,True
+SPAY-0000029889,TX-S-0000029889,POL000005093,2022-12-24,CL00001794,not recorded,Premium,USD,EFT,Successful,LegacyLedger,False,False,True
+SPAY-0000030130,TX-S-0000030130,POL000022077,2022-06-01,CL00004972,not recorded,Premium,USD,Card,Pending,PaymentsHub,False,False,True
+SPAY-0000031355,TX-S-0000031355,POL000008810,2021-11-19,CL00002027,not recorded,Premium,ZAR,Debit Order,Successful,LegacyLedger,False,False,True
+SPAY-0000031386,TX-S-0000013478,POL000007572,2024-01-01,CL00005172,not recorded,Debit Order,ZAR,Debit Order,Successful,PaymentsHub,False,False,True
+SPAY-0000031424,TX-S-0000031424,POL000011276,2020-05-01,CL00001202,not recorded,Commission,ZAR,EFT,Failed,PaymentsHub,False,False,True
+SPAY-0000031443,TX-S-0000031443,POL000003738,2023-03-04,CL00011013,not recorded,Commission,ZAR,EFT,Successful,PaymentsHub,False,False,True
+SPAY-0000031858,TX-S-0000031858,POL000017404,2022-04-25,CL00009017,not recorded,Debit Order,USD,Debit Order,Successful,LegacyLedger,False,False,True
+SPAY-0000031988,TX-S-0000031988,POL000003826,2022-10-19,CL00005298,not recorded,Debit Order,ZAR,Unknown,Reversed,LegacyLedger,False,False,True
+SPAY-0000033277,TX-S-0000033277,POL000005611,2024-01-01,CL00007513,not recorded,Reversal,USD,Card,Failed,BankFeed,False,False,True
+SPAY-0000034127,TX-S-0000034127,POL000012653,2021-08-07,CL00001453,not recorded,Commission,ZAR,Cash,Successful,BankFeed,False,False,True
+SPAY-0000034452,TX-S-0000034452,POL000016626,2022-12-09,CL00001283,not recorded,Premium,ZAR,EFT,Reversed,BankFeed,False,False,True
+SPAY-0000034528,TX-S-0000034528,POL000006550,2020-08-26,CL00008586,not recorded,Premium,ZAR,EFT,Successful,LegacyLedger,False,False,True
+SPAY-0000034645,TX-S-0000034645,POL000009833,2022-09-02,CL00009723,not recorded,Debit Order,USD,Cash,Failed,LegacyLedger,False,False,True
+SPAY-0000034913,TX-S-0000034913,POL000007549,2020-03-04,CL00001917,not recorded,Reversal,ZAR,Unknown,Pending,PaymentsHub,False,False,True
+SPAY-0000034931,TX-S-0000034931,POL000020129,2024-11-25,CL00008501,not recorded,Premium,ZAR,Debit Order,Successful,LegacyLedger,False,False,True
+SPAY-0000035211,TX-S-0000035211,POL000022640,2025-04-29,CL00010034,not recorded,Debit Order,ZAR,EFT,Failed,LegacyLedger,False,False,True
+SPAY-0000035229,TX-S-0000035229,POL000011719,2025-05-29,CL00007612,not recorded,Premium,ZAR,EFT,Successful,PaymentsHub,False,False,True
+SPAY-0000035323,TX-S-0000035323,POL000020144,2022-10-23,CL00006163,not recorded,Reversal,ZAR,Cash,Successful,PaymentsHub,False,False,True
+SPAY-0000035485,TX-S-0000035485,POL000025917,2022-01-22,CL00003827,not recorded,Debit Order,ZAR,Cash,Successful,PaymentsHub,False,False,True
+SPAY-0000036087,TX-S-0000036087,POL000016055,2023-05-06,CL00005532,not recorded,Premium,USD,Card,Failed,PaymentsHub,False,False,True
+SPAY-0000036251,TX-S-0000036251,POL000004782,2021-01-14,CL00000952,not recorded,Commission Reversal,ZAR,EFT,Successful,BankFeed,False,False,True
+SPAY-0000036446,TX-S-0000036446,POL000019251,2025-12-18,CL00002519,not recorded,EFT,USD,Cash,Successful,PaymentsHub,False,False,True
+SPAY-0000036772,TX-S-0000036772,POL000004419,2025-03-07,CL00010590,not recorded,Debit Order,ZAR,Cash,Reversed,BankFeed,False,False,True
+SPAY-0000037496,TX-S-0000037496,POL000005421,2025-10-31,CL00004239,not recorded,Premium,USD,Unknown,Successful,BankFeed,False,False,True
+SPAY-0000038311,TX-S-0000038311,POL000017935,2021-10-03,CL00002389,not recorded,Premium,USD,Unknown,Reversed,LegacyLedger,False,False,True
+SPAY-0000039291,TX-S-0000039291,POL000004507,2023-02-28,CL00011660,not recorded,Premium,ZAR,Cash,Successful,LegacyLedger,False,False,True
+SPAY-0000039356,TX-S-0000039356,POL000013586,2024-02-26,CL00008326,not recorded,Commission,ZAR,Debit Order,Failed,BankFeed,False,False,True
+SPAY-0000039412,TX-S-0000039412,POL000002012,2023-02-17,CL00006512,not recorded,Reversal,USD,Card,Successful,BankFeed,False,False,True
+SPAY-0000039702,TX-S-0000039702,POL000024669,2021-01-19,CL00011906,not recorded,Reversal,USD,Debit Order,Failed,PaymentsHub,False,False,True
+SPAY-0000040023,TX-S-0000040023,POL000014151,2024-12-11,CL00010478,not recorded,Premium,ZAR,Unknown,Successful,PaymentsHub,False,False,True
+SPAY-0000040683,TX-S-0000040683,POL000007310,2025-12-30,CL00009201,not recorded,Premium,ZAR,Card,Failed,PaymentsHub,False,False,True
+SPAY-0000041276,TX-S-0000041276,MISSING-231788,2023-05-27,CL00002696,not recorded,Premium,USD,EFT,Failed,BankFeed,True,False,True
+SPAY-0000042336,TX-S-0000042336,POL000003443,2024-07-04,CL00001392,not recorded,Commission,USD,Card,Successful,LegacyLedger,False,False,True
+SPAY-0000042383,TX-S-0000042383,POL000002991,2023-08-14,CL00002409,not recorded,EFT,ZAR,Unknown,Reversed,PaymentsHub,False,False,True
+SPAY-0000043062,TX-S-0000043062,POL000006411,2020-05-21,CL00004560,not recorded,Debit Order,ZAR,Unknown,Pending,PaymentsHub,False,False,True
+SPAY-0000043166,TX-S-0000043166,POL000010839,2024-10-29,CL00000296,not recorded,Commission Reversal,USD,Debit Order,Pending,LegacyLedger,False,False,True
+SPAY-0000043169,TX-S-0000043169,POL000019726,2023-07-01,CL00002935,not recorded,Debit Order,USD,Unknown,Successful,BankFeed,False,False,True
+SPAY-0000043276,TX-S-0000043276,POL000014891,2024-11-22,CL00004873,not recorded,Reversal,ZAR,EFT,Reversed,LegacyLedger,False,False,True
+SPAY-0000043754,TX-S-0000043754,POL000007754,2021-05-07,CL00008705,not recorded,Reversal,ZAR,EFT,Pending,PaymentsHub,False,False,True
+SPAY-0000044043,TX-S-0000044043,POL000021400,2020-02-10,CL00007501,not recorded,Debit Order,ZAR,Cash,Pending,PaymentsHub,False,False,True
+SPAY-0000044524,TX-S-0000044524,POL000003883,2024-05-28,CL00008351,not recorded,Refund,USD,Cash,Reversed,PaymentsHub,False,False,True
+SPAY-0000044580,TX-S-0000044580,POL000010851,2020-02-21,CL00004477,not recorded,Commission,ZAR,Debit Order,Successful,PaymentsHub,False,False,True
+SPAY-0000045224,TX-S-0000045224,POL000013935,2020-02-17,CL00004128,not recorded,Premium,ZAR,Card,Successful,LegacyLedger,False,False,True
+SPAY-0000045844,TX-S-0000045844,POL000010208,2022-04-04,CL00002427,not recorded,Debit Order,ZAR,Debit Order,Failed,LegacyLedger,False,False,True
+SPAY-0000046503,TX-S-0000046503,POL000002691,2020-08-02,CL00009193,not recorded,Commission Reversal,ZAR,Card,Successful,PaymentsHub,False,False,True
+SPAY-0000046754,TX-S-0000046754,POL000016425,2022-09-27,CL00004782,not recorded,Reversal,ZAR,Cash,Successful,LegacyLedger,False,False,True
+SPAY-0000047182,TX-S-0000047182,POL000022036,2022-09-05,CL00005294,not recorded,Commission,ZAR,Cash,Pending,LegacyLedger,False,False,True
+SPAY-0000047234,TX-S-0000047234,POL000023579,2020-04-18,CL00006448,not recorded,Premium,ZAR,Card,Failed,PaymentsHub,False,False,True
+SPAY-0000047621,TX-S-0000047621,POL000013638,2022-03-16,CL00004203,not recorded,Commission,USD,EFT,Successful,LegacyLedger,False,False,True
+SPAY-0000048279,TX-S-0000048279,POL000008213,2023-09-22,CL00011966,not recorded,Debit Order,USD,Debit Order,Successful,PaymentsHub,False,False,True
+SPAY-0000048618,TX-S-0000048618,POL000024306,2020-01-20,CL00003282,not recorded,Premium,USD,Debit Order,Successful,PaymentsHub,False,False,True
+SPAY-0000049647,TX-S-0000049647,POL000004016,2025-10-09,CL00010518,not recorded,Premium,USD,Debit Order,Successful,LegacyLedger,False,False,True
+SPAY-0000049738,TX-S-0000049738,POL000007052,2024-04-18,MISSING-393794,not recorded,Debit Order,ZAR,Card,Successful,BankFeed,False,False,True
+SPAY-0000049745,TX-S-0000049745,POL000003924,2025-06-12,CL00011134,not recorded,Commission,ZAR,Unknown,Reversed,LegacyLedger,False,False,True
+SPAY-0000050680,TX-S-0000050680,POL000011908,2022-02-02,CL00006614,not recorded,Commission,USD,Debit Order,Successful,BankFeed,False,False,True
+SPAY-0000050980,TX-S-0000050980,POL000001436,2024-08-11,CL00004402,not recorded,Premium,ZAR,Debit Order,Successful,BankFeed,False,False,True
+SPAY-0000051485,TX-S-0000051485,POL000004907,2021-10-12,CL00003546,not recorded,EFT,ZAR,Cash,Reversed,LegacyLedger,False,False,True
+SPAY-0000051622,TX-S-0000051622,POL000000869,2025-10-27,CL00001461,not recorded,Premium,ZAR,Debit Order,Successful,LegacyLedger,False,False,True
+SPAY-0000051824,TX-S-0000051824,POL000021537,2020-04-11,CL00003760,not recorded,EFT,USD,Debit Order,Failed,LegacyLedger,False,False,True
+SPAY-0000052025,TX-S-0000052025,MISSING-420690,2021-08-22,CL00000857,not recorded,Debit Order,ZAR,Unknown,Failed,BankFeed,True,False,True
+SPAY-0000052080,TX-S-0000052080,POL000020613,2024-05-09,CL00005532,not recorded,Debit Order,ZAR,Card,Failed,PaymentsHub,False,False,True
+SPAY-0000054096,TX-S-0000054096,POL000018512,2021-09-01,CL00009528,not recorded,Debit Order,ZAR,Cash,Successful,PaymentsHub,False,False,True
+SPAY-0000054243,TX-S-0000054243,POL000021682,2025-11-21,CL00001777,not recorded,EFT,ZAR,Card,Reversed,BankFeed,False,False,True
+SPAY-0000054963,TX-S-0000037067,POL000001948,2024-04-18,CL00003013,not recorded,Refund,USD,EFT,Pending,BankFeed,False,False,True
+SPAY-0000054983,TX-S-0000054983,POL000022570,2023-10-16,CL00010929,not recorded,Commission Reversal,ZAR,Cash,Successful,BankFeed,False,False,True
+SPAY-0000055004,TX-S-0000055004,POL000009108,2021-07-10,CL00004833,not recorded,Commission,ZAR,Unknown,Successful,BankFeed,False,False,True
+SPAY-0000055406,TX-S-0000055406,POL000005378,2024-06-18,CL00011192,not recorded,Premium,USD,Unknown,Pending,PaymentsHub,False,False,True
+SPAY-0000055966,TX-S-0000055966,POL000015984,2020-07-18,CL00005904,not recorded,Debit Order,ZAR,Card,Successful,BankFeed,False,False,True
+SPAY-0000056221,TX-S-0000056221,POL000024767,2025-04-11,CL00004582,not recorded,Debit Order,ZAR,Debit Order,Failed,BankFeed,False,False,True
+SPAY-0000057232,TX-S-0000057232,POL000001961,2020-04-04,CL00002626,not recorded,Reversal,ZAR,Card,Reversed,PaymentsHub,False,False,True
+SPAY-0000057863,TX-S-0000057863,POL000008584,2020-09-19,CL00003965,not recorded,EFT,ZAR,Cash,Successful,PaymentsHub,False,False,True
+SPAY-0000058374,TX-S-0000058374,POL000017701,2025-09-23,CL00010270,not recorded,Premium,ZAR,Card,Successful,LegacyLedger,False,False,True
+SPAY-0000058634,TX-S-0000058634,POL000001669,2022-09-20,CL00002326,not recorded,EFT,USD,Cash,Pending,PaymentsHub,False,False,True
+SPAY-0000059179,TX-S-0000059179,MISSING-510080,2024-05-18,CL00008202,not recorded,EFT,USD,Unknown,Successful,PaymentsHub,True,False,True
+SPAY-0000059435,TX-S-0000059435,POL000022418,2022-06-05,CL00001705,not recorded,Commission,ZAR,Unknown,Successful,PaymentsHub,False,False,True
+SPAY-0000059519,TX-S-0000059519,POL000017236,2025-11-12,CL00004181,not recorded,Premium,ZAR,Card,Failed,PaymentsHub,False,False,True
